@@ -54,20 +54,20 @@ var data = {
   {
     "title": "Tell us about you - single person, no children",
     "path": [{
-      "caption": "Start page",
-      "imgref": "images/1.start-page.png"
+      "caption": "Task list",
+      "imgref": "images/3.task-list.png"
     },{
-      "caption": "Go back to application",
-      "imgref": "images/2.Go-back-to-application.png"
+      "caption": "Name",
+      "imgref": "images/2.Enter-your-name.png"
     },{
-      "caption": "Sign in",
-      "imgref": "images/3.sign-in.png",
+      "caption": "Date of birth",
+      "imgref": "images/3.date-of-birth.png",
     },{
-      "caption": "Link sent",
-      "imgref": "images/link-sent-v0.3.png"
+      "caption": "Nationality",
+      "imgref": "images/4.Enter-your-nationality.png"
     },{
-      "caption": "Email resent",
-      "imgref": "images/5.email-resent.png"
+      "caption": "Bailiwick address",
+      "imgref": "images/5.Bailiwick-address.png"
     }]
   }
 ]}
