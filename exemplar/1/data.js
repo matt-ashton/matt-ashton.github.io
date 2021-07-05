@@ -47,6 +47,37 @@ var data = {
     },{
       "caption": "Email resent",
       "imgref": "images/5.email-resent.png"
-    }]
+    },{
+      "title": "Tell us about you - Single person, no children",
+      "path": [{
+        "caption": "Task list",
+        "imgref": "images/1.start-page.png"
+      },{
+        "caption": "Enter your full name",
+        "imgref": "images/2.Go-back-to-application.png"
+      },{
+        "caption": "Enter your date of birth",
+        "imgref": "images/3.sign-in.png",
+      },{
+        "caption": "Enter your nationality",
+        "imgref": "images/link-sent-v0.3.png"
+      },{
+        "caption": "Enter your Bailiwick address",
+        "imgref": "images/5.email-resent.png"
+      },{
+        "caption": "Enter your email address",
+        "imgref": "images/5.email-resent.png"
+      },{
+        "caption": "Enter your phone number",
+        "imgref": "images/5.email-resent.png"
+      },{
+        "caption": "Enter your marital status",
+        "imgref": "images/5.email-resent.png"
+      },{
+        "caption": "Details of children",
+        "imgref": "images/5.email-resent.png"
+      },{
+        "caption": "Task list",
+        "imgref": "images/5.email-resent.png"
   }]
 }
