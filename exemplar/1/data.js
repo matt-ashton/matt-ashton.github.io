@@ -64,25 +64,25 @@ var data = {
       "imgref": "images/3.date-of-birth.png",
     },{
       "caption": "Nationality",
-      "imgref": "images/link-sent-v0.3.png"
+      "imgref": "images/4.Enter-your-nationality.png"
     },{
       "caption": "Bailiwick address",
-      "imgref": "images/2.Go-back-to-application.png"
+      "imgref": "images/5.Bailiwick-address.png"
     },{
       "caption": "Email",
-      "imgref": "images/2.Go-back-to-application.png"
+      "imgref": "images/6.Email-address.png"
     },{
       "caption": "Phone number",
-      "imgref": "images/2.Go-back-to-application.png"
+      "imgref": "images/7.phone-number.png"
     },{
       "caption": "Marital status",
-      "imgref": "images/2.Go-back-to-application.png"
+      "imgref": "images/8.Marital-status.png"
     },{
       "caption": "Children",
-      "imgref": "images/2.Go-back-to-application.png"
-    },{
+      "imgref": "images/9.children.png"
+    },{s
       "caption": "Task list",
-      "imgref": "images/2.Go-back-to-application.png"
+      "imgref": "images/10.task-list-tell-us-about-you-end.png"
     }]
     }
   ]}
