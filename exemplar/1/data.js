@@ -55,13 +55,13 @@ var data = {
     "title": "Tell us about you - single person, no children",
     "path": [{
       "caption": "Task list",
-      "imgref": "images/1.start-page.png"
+      "imgref": "images/3.task-list.png"
     },{
       "caption": "Name",
-      "imgref": "images/2.Go-back-to-application.png"
+      "imgref": "images/2.Enter-your-name.png"
     },{
       "caption": "Date of birth",
-      "imgref": "images/3.sign-in.png",
+      "imgref": "images/3.date-of-birth.png",
     },{
       "caption": "Nationality",
       "imgref": "images/link-sent-v0.3.png"
