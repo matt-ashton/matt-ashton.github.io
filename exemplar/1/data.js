@@ -54,20 +54,35 @@ var data = {
   {
     "title": "Tell us about you - single person, no children",
     "path": [{
-      "caption": "Start page",
+      "caption": "Task list",
       "imgref": "images/1.start-page.png"
     },{
-      "caption": "Go back to application",
+      "caption": "Enter your name",
       "imgref": "images/2.Go-back-to-application.png"
     },{
-      "caption": "Sign in",
+      "caption": "Enter your date of birth",
       "imgref": "images/3.sign-in.png",
     },{
-      "caption": "Link sent",
+      "caption": "Enter your nationality",
       "imgref": "images/link-sent-v0.3.png"
     },{
-      "caption": "Email resent",
-      "imgref": "images/5.email-resent.png"
+      "caption": "Enter your Bailiwick address",
+      "imgref": "images/2.Go-back-to-application.png"
+    },{
+      "caption": "Enter your email",
+      "imgref": "images/2.Go-back-to-application.png"
+    },{
+      "caption": "Enter your phone number",
+      "imgref": "images/2.Go-back-to-application.png"
+    },{
+      "caption": "Enter your marital status",
+      "imgref": "images/2.Go-back-to-application.png"
+    },{
+      "caption": "Enter details of children",
+      "imgref": "images/2.Go-back-to-application.png"
+    },{
+      "caption": "Task list",
+      "imgref": "images/2.Go-back-to-application.png"
     }]
     }
   ]}
