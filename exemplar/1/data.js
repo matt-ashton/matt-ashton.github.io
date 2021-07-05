@@ -52,7 +52,7 @@ var data = {
     }]
   },
   {
-    "title": "Tell us about you - single person, no children",
+    "title": "Tell us about you - single person, no Children",
     "path": [{
       "caption": "Task list",
       "imgref": "images/3.task-list.png"
