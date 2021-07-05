@@ -47,7 +47,8 @@ var data = {
     },{
       "caption": "Email resent",
       "imgref": "images/5.email-resent.png"
-    },{
+    }]
+},{
       "title": "Tell us about you - Single person, no children",
       "path": [{
         "caption": "Task list",
