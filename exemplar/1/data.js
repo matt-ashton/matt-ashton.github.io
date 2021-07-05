@@ -9,7 +9,7 @@ var data = {
         "imgref": "images/1.start-page.png"
       },{
         "caption": "Start new application",
-        "imgref": "images/2.Start-new.png"
+        "imgref": "images/2.Start-new-application.png"
       },{
         "caption": "Task list",
         "imgref": "images/3.task-list.png"
