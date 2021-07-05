@@ -30,6 +30,7 @@ var data = {
       "caption": "Link sent",
       "imgref": "images/4.Link-sent.png"
     }]
+      }]
   },{
     "title": "Go back to your application",
     "path": [{
@@ -48,7 +49,7 @@ var data = {
       "caption": "Email resent",
       "imgref": "images/5.email-resent.png"
     }]
-},{
+  },{
       "title": "Tell us about you - Single person, no children",
       "path": [{
         "caption": "Task list",
@@ -80,5 +81,6 @@ var data = {
       },{
         "caption": "Task list",
         "imgref": "images/5.email-resent.png"
-  }]
-}
+      }]
+    }
+  ]}
