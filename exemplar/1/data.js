@@ -14,7 +14,8 @@ var data = {
         "caption": "Task list",
         "imgref": "images/3.task-list.png"
       }]
-  },{
+    },
+    {
     "title": "Save and come back later",
     "path": [{
       "caption": "Save and come back",
@@ -30,8 +31,8 @@ var data = {
       "caption": "Link sent",
       "imgref": "images/4.Link-sent.png"
     }]
-      }]
-  },{
+  },
+  {
     "title": "Go back to your application",
     "path": [{
       "caption": "Start page",
