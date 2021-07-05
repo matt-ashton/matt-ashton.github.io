@@ -57,28 +57,28 @@ var data = {
       "caption": "Task list",
       "imgref": "images/1.start-page.png"
     },{
-      "caption": "Enter your name",
+      "caption": "Name",
       "imgref": "images/2.Go-back-to-application.png"
     },{
-      "caption": "Enter your date of birth",
+      "caption": "Date of birth",
       "imgref": "images/3.sign-in.png",
     },{
-      "caption": "Enter your nationality",
+      "caption": "Nationality",
       "imgref": "images/link-sent-v0.3.png"
     },{
-      "caption": "Enter your Bailiwick address",
+      "caption": "Bailiwick address",
       "imgref": "images/2.Go-back-to-application.png"
     },{
-      "caption": "Enter your email",
+      "caption": "Email",
       "imgref": "images/2.Go-back-to-application.png"
     },{
-      "caption": "Enter your phone number",
+      "caption": "Phone number",
       "imgref": "images/2.Go-back-to-application.png"
     },{
-      "caption": "Enter your marital status",
+      "caption": "Marital status",
       "imgref": "images/2.Go-back-to-application.png"
     },{
-      "caption": "Enter details of children",
+      "caption": "Children",
       "imgref": "images/2.Go-back-to-application.png"
     },{
       "caption": "Task list",
