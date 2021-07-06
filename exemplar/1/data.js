@@ -243,8 +243,8 @@ var data = {
       "caption": "Summary of children",
       "imgref": "images/14.Child-summary.png"
     },{
-      "caption": "Partner's residence",
-      "imgref": "images/17.Partners-residence.png"
+      "caption": "Spouse residence",
+      "imgref": "images/17.spouse-or-civil-partner-residence.png"
     },{
       "caption": "Claim elsewhere",
       "imgref": "images/18.Family-allowance-elsewhere.png"
