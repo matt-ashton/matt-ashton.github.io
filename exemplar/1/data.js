@@ -115,6 +115,39 @@ var data = {
       "caption": "Children",
       "imgref": "images/9.children.png"
     },{
+      "caption": "Child's details",
+      "imgref": "images/10.child-details.png"
+    },{
+      "caption": "Country of birth",
+      "imgref": "images/11.Country-of-birth.png"
+    },{
+      "caption": "Family allowance",
+      "imgref": "images/12.claim-family-allowance.png"
+    },{
+      "caption": "Identity documents",
+      "imgref": "images/13.identity-documents.png"
+    },{
+      "caption": "Summary of children",
+      "imgref": "images/14.Child-summary.png"
+    },{
+      "caption": "Living arrangement",
+      "imgref": "images/15.Living-arrangement.png"
+    },{
+      "caption": "Partner's details",
+      "imgref": "images/16.partners-details.png"
+    },{
+      "caption": "Partner's residence",
+      "imgref": "images/17.Partners-residence.png"
+    },{
+      "caption": "Family allowance elsewhere",
+      "imgref": "images/18.Family-allowance-elsewhere.png"
+    },{
+      "caption": "How you want it paid",
+      "imgref": "images/19.How-you-want-paying.png"
+    },{
+      "caption": "Enter bank details",
+      "imgref": "images/20.Enter-banks-details.png"
+    },{
       "caption": "Task list",
       "imgref": "images/10.task-list-tell-us-about-you-end.png"
     }]
