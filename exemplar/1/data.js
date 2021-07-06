@@ -153,7 +153,7 @@ var data = {
     }]
   },
   {
-    "title": "Tell us about you - Married person, doesn't claim family allowance",
+    "title": "Tell us about you - married person, doesn't claim family allowance",
     "path": [{
       "caption": "Task list",
       "imgref": "images/3.task-list.png"
@@ -193,7 +193,7 @@ var data = {
     }]
   },
   {
-    "title": "Tell us about you - Married person, claims family allowance",
+    "title": "Tell us about you - married person, claims family allowance",
     "path": [{
       "caption": "Task list",
       "imgref": "images/3.task-list.png"
