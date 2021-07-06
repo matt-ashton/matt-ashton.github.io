@@ -149,7 +149,7 @@ var data = {
       "imgref": "images/20.Enter-banks-details.png"
     },{
       "caption": "Task list",
-      "imgref": "images/10.task-list-tell-us-about-you-end.png"
+      "imgref": "images/21.task-list-single-person-family-allowance.png"
     }]
   }
 ]}
