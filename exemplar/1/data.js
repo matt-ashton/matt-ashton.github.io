@@ -151,5 +151,39 @@ var data = {
       "caption": "Task list",
       "imgref": "images/21.task-list-single-person-family-allowance.png"
     }]
+  },
+  {
+    "title": "Tell us about you - Married person, doesn't claim family allowance",
+    "path": [{
+      "caption": "Task list",
+      "imgref": "images/3.task-list.png"
+    },{
+      "caption": "Name",
+      "imgref": "images/2.Enter-your-name.png"
+    },{
+      "caption": "Date of birth",
+      "imgref": "images/3.date-of-birth.png",
+    },{
+      "caption": "Nationality",
+      "imgref": "images/4.Enter-your-nationality.png"
+    },{
+      "caption": "Bailiwick address",
+      "imgref": "images/5.Bailiwick-address.png"
+    },{
+      "caption": "Email",
+      "imgref": "images/6.Email-address.png"
+    },{
+      "caption": "Phone number",
+      "imgref": "images/7.phone-number.png"
+    },{
+      "caption": "Marital status",
+      "imgref": "images/8.Marital-status.png"
+    },{
+      "caption": "Children",
+      "imgref": "images/9.children.png"
+    },{
+      "caption": "Task list",
+      "imgref": "images/10.task-list-tell-us-about-you-end.png"
+    }]
   }
 ]}
