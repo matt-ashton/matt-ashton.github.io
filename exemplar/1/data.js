@@ -7,6 +7,7 @@ var data = {
       "path": [{
         "caption": "Start page",
         "imgref": "images/1.start-page.png"
+        "caption": "REG-01",
       },{
         "caption": "Start new application",
         "imgref": "images/2.Start-new-application.png"
