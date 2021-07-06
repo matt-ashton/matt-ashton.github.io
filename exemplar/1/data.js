@@ -219,6 +219,12 @@ var data = {
       "caption": "Marital status",
       "imgref": "images/8.Marital-status.png"
     },{
+      "caption": "Spouse details",
+      "imgref": "images/9.spouse-or-civil-partner.png"
+    },{
+      "caption": "Date of marriage",
+      "imgref": "images/10.date-of-marriage.png"
+    },{
       "caption": "Children",
       "imgref": "images/9.children.png"
     },{
@@ -236,12 +242,6 @@ var data = {
     },{
       "caption": "Summary of children",
       "imgref": "images/14.Child-summary.png"
-    },{
-      "caption": "Living arrangement",
-      "imgref": "images/15.Living-arrangement.png"
-    },{
-      "caption": "Partner's details",
-      "imgref": "images/16.partners-details.png"
     },{
       "caption": "Partner's residence",
       "imgref": "images/17.Partners-residence.png"
