@@ -139,13 +139,13 @@ var data = {
       "caption": "Partner's residence",
       "imgref": "images/17.Partners-residence.png"
     },{
-      "caption": "Family allowance elsewhere",
+      "caption": "Claim elsewhere",
       "imgref": "images/18.Family-allowance-elsewhere.png"
     },{
       "caption": "How you want it paid",
       "imgref": "images/19.How-you-want-paying.png"
     },{
-      "caption": "Enter bank details",
+      "caption": "Bank details",
       "imgref": "images/20.Enter-banks-details.png"
     },{
       "caption": "Task list",
