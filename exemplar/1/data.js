@@ -52,7 +52,7 @@ var data = {
     }]
   },
   {
-    "title": "Tell us about you - single person, no children",
+    "title": "Tell us about you - single person, doesn't claim family allowance",
     "path": [{
       "caption": "Task list",
       "imgref": "images/3.task-list.png"
@@ -86,7 +86,7 @@ var data = {
     }]
   },
   {
-    "title": "Tell us about you - single person, has children",
+    "title": "Tell us about you - single person, claims family allowance",
     "path": [{
       "caption": "Task list",
       "imgref": "images/3.task-list.png"
