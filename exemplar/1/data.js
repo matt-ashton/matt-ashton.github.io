@@ -179,11 +179,17 @@ var data = {
       "caption": "Marital status",
       "imgref": "images/8.Marital-status.png"
     },{
+      "caption": "Spouse details",
+      "imgref": "images/9.spouse-or-civil-partner.png"
+    },{
+      "caption": "Date of marriage",
+      "imgref": "images/10.date-of-marriage.png"
+    },{
       "caption": "Children",
       "imgref": "images/9.children.png"
     },{
       "caption": "Task list",
-      "imgref": "images/10.task-list-tell-us-about-you-end.png"
+      "imgref": "images/11.Task-list-married-no-children.png"
     }]
   }
 ]}
