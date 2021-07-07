@@ -260,7 +260,7 @@ var data = {
     }]
   },
   {
-  "title": "Register your arrival - Arrived from outside the Bailiwick",
+  "title": "Register your arrival - Outside the Bailiwick",
   "path": [{
     "caption": "Task list",
     "imgref": "images/10.task-list-tell-us-about-you-end.png"
@@ -282,6 +282,25 @@ var data = {
   },{
     "caption": "Task list",
     "imgref": "images/6.register-arrival-task-list-1.png"
+  }]
+},
+{
+"title": "Register your arrival - Not outside the Bailiwick",
+"path": [{
+  "caption": "Task list",
+  "imgref": "images/10.task-list-tell-us-about-you-end.png"
+},{
+  "caption": "Your arrival",
+  "imgref": "images/2.Where-you've-come-from.png",
+},{
+  "caption": "Education",
+  "imgref": "images/2.education-status.png"
+},{
+  "caption": "SIN",
+  "imgref": "images/3.social-insurance-number.png"
+},{
+  "caption": "Task list",
+  "imgref": "images/4.register-your-arrival-task-list-2.png"
     }]
   }
 ]}
