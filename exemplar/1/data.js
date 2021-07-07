@@ -307,7 +307,7 @@ var data = {
 "title": "Enter your income - employment",
 "path": [{
 "caption": "Task list",
-"imgref": "6.register-arrival-task-list-1.png"
+"imgref": "images/6.register-arrival-task-list-1.png"
 },{
 "caption": "Your income",
 "imgref": "images/2.Your-income-employment.png",
@@ -322,7 +322,7 @@ var data = {
 "imgref": "images/5.Start-date.png"
 },{
 "caption": "Temporary",
-"imgref": "images/5.Start-date.png"
+"imgref": "images/"
 },{
 "caption": "Summary",
 "imgref": "images/7.employment-summary.png"
