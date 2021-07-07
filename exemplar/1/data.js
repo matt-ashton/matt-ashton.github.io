@@ -437,6 +437,37 @@ var data = {
 },{
 "caption": "Task list",
 "imgref": "images/"
+}]
+},
+{
+"title": "Enter your income - rental income",
+"path": [{
+"caption": "Task list",
+"imgref": "images/6.register-arrival-task-list-1.png"
+},{
+"caption": "Your income",
+"imgref": "images/select-income-rental-income.png",
+},{
+"caption": "Address",
+"imgref": "images/rental-income.png"
+},{
+"caption": "Property details",
+"imgref": "images/let-property-details.png"
+},{
+"caption": "Income",
+"imgref": "images/rental-income-estimate.png"
+},{
+"caption": "Interest",
+"imgref": "images/interest-relief.png"
+},{
+"caption": "Summary",
+"imgref": "images/let-property-summary.png"
+},{
+"caption": "Income estimates",
+"imgref": "images/income-estimates-property.png"
+},{
+"caption": "Task list",
+"imgref": "images/"
     }]
   }
 ]}
