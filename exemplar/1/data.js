@@ -260,7 +260,7 @@ var data = {
     }]
   },
   {
-  "title": "Register your arrival - Outside the Bailiwick",
+  "title": "Register your arrival - outside the Bailiwick",
   "path": [{
     "caption": "Task list",
     "imgref": "images/10.task-list-tell-us-about-you-end.png"
@@ -285,7 +285,7 @@ var data = {
   }]
 },
 {
-"title": "Register your arrival - Not outside the Bailiwick",
+"title": "Register your arrival - not outside the Bailiwick",
 "path": [{
   "caption": "Task list",
   "imgref": "images/10.task-list-tell-us-about-you-end.png"
@@ -301,6 +301,31 @@ var data = {
 },{
   "caption": "Task list",
   "imgref": "images/4.register-your-arrival-task-list-2.png"
+}]
+},
+{
+"title": "Enter your income - employment",
+"path": [{
+"caption": "Task list",
+"imgref": "6.register-arrival-task-list-1.png"
+},{
+"caption": "Your income",
+"imgref": "images/2.Your-income-employment.png",
+},{
+"caption": "Working arrangement",
+"imgref": "images/3.working-arrangement.png"
+},{
+"caption": "Employment details",
+"imgref": "images/4.employment-details.png"
+},{
+"caption": "Start date",
+"imgref": "images/5.Start-date.png"
+},{
+"caption": "Temporary",
+"imgref": "images/5.Start-date.png"
+},{
+"caption": "Summary",
+"imgref": "images/7.employment-summary.png"
     }]
   }
 ]}
