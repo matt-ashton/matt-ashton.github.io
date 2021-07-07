@@ -415,6 +415,28 @@ var data = {
 },{
 "caption": "Task list",
 "imgref": "images/"
+}]
+},
+{
+"title": "Enter your income - pensions",
+"path": [{
+"caption": "Task list",
+"imgref": "images/6.register-arrival-task-list-1.png"
+},{
+"caption": "Your income",
+"imgref": "images/select-your-income-pensions.png",
+},{
+"caption": "pension details",
+"imgref": "images/pension-details.png"
+},{
+"caption": "Summary",
+"imgref": "images/pensions-summary.png"
+},{
+"caption": "Income estimates",
+"imgref": "images/income-estimates-pensions.png"
+},{
+"caption": "Task list",
+"imgref": "images/"
     }]
   }
 ]}
