@@ -326,6 +326,12 @@ var data = {
 },{
 "caption": "Summary",
 "imgref": "images/7.employment-summary.png"
+},{
+"caption": "Income estimates",
+"imgref": "images/8.income-estimates-employed.png"
+},{
+"caption": "Task list",
+"imgref": "images/"
 }]
 },
 {
@@ -360,6 +366,12 @@ var data = {
 },{
 "caption": "Summary",
 "imgref": "images/11.Self-employment-summary.png"
+},{
+"caption": "Income estimates",
+"imgref": "images/income-estimates-self-employed.png"
+},{
+"caption": "Task list",
+"imgref": "images/"
     }]
   }
 ]}
