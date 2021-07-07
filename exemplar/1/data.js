@@ -258,5 +258,22 @@ var data = {
       "caption": "Task list",
       "imgref": "images/Tasklist - Married, claiming family allowance.png"
     }]
+  },
+  {
+  "title": "Save and come back later",
+  "path": [{
+    "caption": "Save and come back",
+    "imgref": "images/3.task-list.png"
+  },{
+    "caption": "Enter your email",
+    "imgref": "images/2.Enter-email-address.png",
+    "note": "Email address entry revealed"
+  },{
+    "caption": "Check your email",
+    "imgref": "images/3.Check-your-email.png"
+  },{
+    "caption": "Link sent",
+    "imgref": "images/4.Link-sent.png"
+    }]
   }
 ]}
