@@ -260,20 +260,28 @@ var data = {
     }]
   },
   {
-  "title": "Save and come back later",
+  "title": "Register your arrival - Arrived from outside the Bailiwick",
   "path": [{
-    "caption": "Save and come back",
-    "imgref": "images/3.task-list.png"
+    "caption": "Task list",
+    "imgref": "images/10.task-list-tell-us-about-you-end.png"
   },{
-    "caption": "Enter your email",
-    "imgref": "images/2.Enter-email-address.png",
-    "note": "Email address entry revealed"
+    "caption": "Where you've come from",
+    "imgref": "images/2.Where-you've-come-from.png",
   },{
-    "caption": "Check your email",
-    "imgref": "images/3.Check-your-email.png"
+    "caption": "Date of arrival",
+    "imgref": "images/3.date-of-arrival.png"
   },{
-    "caption": "Link sent",
-    "imgref": "images/4.Link-sent.png"
+    "caption": "Length of stay",
+    "imgref": "images/3.length-of-stay.png"
+  },{
+    "caption": "Overseas address",
+    "imgref": "images/4.overseas-address.png"
+  },{
+    "caption": "Social Security",
+    "imgref": "images/5.social-security.png"
+  },{
+    "caption": "Task list",
+    "imgref": "images/6.register-arrival-task-list-1.png"
     }]
   }
 ]}
