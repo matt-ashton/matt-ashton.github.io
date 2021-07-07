@@ -372,6 +372,46 @@ var data = {
 },{
 "caption": "Task list",
 "imgref": "images/"
+}]
+},
+{
+"title": "Enter your income - self-employed, business partnership",
+"path": [{
+"caption": "Task list",
+"imgref": "images/6.register-arrival-task-list-1.png"
+},{
+"caption": "Your income",
+"imgref": "images/3.select-income-self-employed.png",
+},{
+"caption": "Business type",
+"imgref": "images/4.business-type.png"
+},{
+"caption": "Business details",
+"imgref": "images/5.business-details.png"
+},{
+"caption": "Start date",
+"imgref": "images/6.date-business-started.png"
+},{
+"caption": "Business address",
+"imgref": "images/7.Business-address.png"
+},{
+"caption": "Address",
+"imgref": "images/8.Enter-business-address.png"
+},{
+"caption": "Accounts",
+"imgref": "images/9.accounting-period.png"
+},{
+"caption": "Profit or loss",
+"imgref": "images/10.profit-or-loss-estimate.png"
+},{
+"caption": "Summary",
+"imgref": "images/11.Self-employment-summary.png"
+},{
+"caption": "Income estimates",
+"imgref": "images/income-estimates-self-employed.png"
+},{
+"caption": "Task list",
+"imgref": "images/"
     }]
   }
 ]}
