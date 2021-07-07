@@ -265,7 +265,7 @@ var data = {
     "caption": "Task list",
     "imgref": "images/10.task-list-tell-us-about-you-end.png"
   },{
-    "caption": "Where you've come from",
+    "caption": "Your arrival",
     "imgref": "images/2.Where-you've-come-from.png",
   },{
     "caption": "Date of arrival",
