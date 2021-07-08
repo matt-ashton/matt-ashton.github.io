@@ -487,6 +487,25 @@ var data = {
 },{
 "caption": "Task list",
 "imgref": "images/"
+}]
+},
+{
+"title": "Enter your income - other income",
+"path": [{
+"caption": "Task list",
+"imgref": "images/6.register-arrival-task-list-1.png"
+},{
+"caption": "Your income",
+"imgref": "images/select-your-income-other-income.png",
+},{
+"caption": "Other income",
+"imgref": "images/Other-income-amount.png"
+},{
+"caption": "Income estimates",
+"imgref": "images/income-estimates-other-income.png"
+},{
+"caption": "Task list",
+"imgref": "images/"
     }]
   }
 ]}
