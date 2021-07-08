@@ -468,6 +468,25 @@ var data = {
 },{
 "caption": "Task list",
 "imgref": "images/"
+}]
+},
+{
+"title": "Enter your income - bank interest",
+"path": [{
+"caption": "Task list",
+"imgref": "images/6.register-arrival-task-list-1.png"
+},{
+"caption": "Your income",
+"imgref": "images/select-your-income-bank-interest.png",
+},{
+"caption": "Interest",
+"imgref": "images/bank-interest-received.png"
+},{
+"caption": "Income estimates",
+"imgref": "images/income-estimates-bank-interest.png"
+},{
+"caption": "Task list",
+"imgref": "images/"
     }]
   }
 ]}
