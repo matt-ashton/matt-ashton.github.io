@@ -612,6 +612,28 @@ var data = {
 },{
 "caption": "Task list",
 "imgref": "images/claim-your-allowances-task-list-2.png"
+}]
+},
+{
+"title": "Review your application",
+"path": [{
+"caption": "Task list",
+"imgref": "images/claim-your-allowances-task-list-1.png"
+},{
+"caption": "Page 1",
+"imgref": "images/",
+},{
+"caption": "Page 2",
+"imgref": "images/"
+},{
+"caption": "Page 3",
+"imgref": "images/"
+},{
+"caption": "Page 4",
+"imgref": "images/"
+},{
+"caption": "Task list",
+"imgref": "images/claim-your-allowances-task-list-2.png"
     }]
   }
 ]}
