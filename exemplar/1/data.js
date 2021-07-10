@@ -509,7 +509,7 @@ var data = {
 }]
 },
 {
-"title": "Claim your allowance - claims charge of child allowance",
+"title": "Claim your allowances - claims charge of child allowance",
 "path": [{
 "caption": "Task list",
 "imgref": "images/claim-your-allowances-task-list-1.png"
@@ -531,7 +531,7 @@ var data = {
 }]
 },
 {
-"title": "Claim your allowance - claims relief on mortgage interest",
+"title": "Claim your allowances - claims relief on mortgage interest",
 "path": [{
 "caption": "Task list",
 "imgref": "images/claim-your-allowances-task-list-1.png"
@@ -559,7 +559,7 @@ var data = {
 }]
 },
 {
-"title": "Claim your allowance - claims relief on qualifying loan interest",
+"title": "Claim your allowances - claims relief on qualifying loan interest",
 "path": [{
 "caption": "Task list",
 "imgref": "images/claim-your-allowances-task-list-1.png"
@@ -587,7 +587,7 @@ var data = {
 }]
 },
 {
-"title": "Claim your allowance - claims relief on pension contributions",
+"title": "Claim your allowances - claims relief on pension contributions",
 "path": [{
 "caption": "Task list",
 "imgref": "images/claim-your-allowances-task-list-1.png"
@@ -634,6 +634,22 @@ var data = {
 },{
 "caption": "Task list",
 "imgref": "images/claim-your-allowances-task-list-2.png"
+}]
+},
+{
+"title": "Send your application - Not classified",
+"path": [{
+"caption": "Task list",
+"imgref": "images/task-list-not-classified.png"
+},{
+"caption": "Tax returns",
+"imgref": "images/income-tax-returns.png",
+},{
+"caption": "Declaration",
+"imgref": "images/declaration-1.png"
+},{
+"caption": "Confirmation",
+"imgref": "images/confirmation.png"
     }]
   }
 ]}
