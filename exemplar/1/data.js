@@ -528,6 +528,62 @@ var data = {
 },{
 "caption": "Task list",
 "imgref": "images/claim-your-allowances-task-list-2.png"
+}]
+},
+{
+"title": "Claim your allowance - claims mortgage interest relief",
+"path": [{
+"caption": "Task list",
+"imgref": "images/claim-your-allowances-task-list-1.png"
+},{
+"caption": "Charge of child",
+"imgref": "images/charge-of-child-no.png",
+},{
+"caption": "Mortgages",
+"imgref": "images/mortgage-interest-yes.png"
+},{
+"caption": "Mortgage details",
+"imgref": "images/mortgage-details.png"
+},{
+"caption": "Mortgage summary",
+"imgref": "images/Mortgage-summary.png"
+},{
+"caption": "Loans",
+"imgref": "images/loans-no.png"
+},{
+"caption": "Pensions",
+"imgref": "images/pensions-no.png"
+},{
+"caption": "Task list",
+"imgref": "images/claim-your-allowances-task-list-2.png"
+}]
+},
+{
+"title": "Claim your allowance - claims qualifying loan interest relief",
+"path": [{
+"caption": "Task list",
+"imgref": "images/claim-your-allowances-task-list-1.png"
+},{
+"caption": "Charge of child",
+"imgref": "images/charge-of-child-no.png",
+},{
+"caption": "Mortgages",
+"imgref": "images/mortgage-no.png"
+},{
+"caption": "Loans",
+"imgref": "images/qualifying-loan-yes.png"
+},{
+"caption": "Loan details",
+"imgref": "images/Loan-details.png"
+},{
+"caption": "Loan summary",
+"imgref": "images/loan-summary.png"
+},{
+"caption": "Pensions",
+"imgref": "images/pensions-no.png"
+},{
+"caption": "Task list",
+"imgref": "images/claim-your-allowances-task-list-2.png"
     }]
   }
 ]}
