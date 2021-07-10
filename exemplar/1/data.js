@@ -650,6 +650,91 @@ var data = {
 },{
 "caption": "Confirmation",
 "imgref": "images/confirmation.png"
+}]
+},
+{
+"title": "Send your application - Class 1 (employed)",
+"path": [{
+"caption": "Task list",
+"imgref": "images/Task-list-class-1.png"
+},{
+"caption": "Class 1",
+"imgref": "images/Class-1-Social-Security-contributions.png",
+},{
+"caption": "Tax returns",
+"imgref": "images/income-tax-returns.png",
+},{
+"caption": "Declaration",
+"imgref": "images/declaration-1.png"
+},{
+"caption": "Confirmation",
+"imgref": "images/confirmation.png"
+}]
+},
+{
+"title": "Send your application - Class 2 (self-employed)",
+"path": [{
+"caption": "Task list",
+"imgref": "images/tak-list-class-2.png"
+},{
+"caption": "Class 2",
+"imgref": "images/class-2-social-security-contributions.png",
+},{
+"caption": "Direct debit",
+"imgref": "images/",
+},{
+"caption": "Tax returns",
+"imgref": "images/income-tax-returns.png",
+},{
+"caption": "Declaration",
+"imgref": "images/declaration-1.png"
+},{
+"caption": "Confirmation",
+"imgref": "images/confirmation.png"
+}]
+},
+{
+"title": "Send your application - Class 3 (non-employed)",
+"path": [{
+"caption": "Task list",
+"imgref": "images/task-list-class-3.png"
+},{
+"caption": "Class 3",
+"imgref": "images/class-3.png",
+},{
+"caption": "Direct debit",
+"imgref": "images/",
+},{
+"caption": "Tax returns",
+"imgref": "images/income-tax-returns.png",
+},{
+"caption": "Declaration",
+"imgref": "images/declaration-1.png"
+},{
+"caption": "Confirmation",
+"imgref": "images/confirmation.png"
+}]
+},
+{
+"title": "Send your application - voluntary Class 3 (non-employed)",
+"path": [{
+"caption": "Task list",
+"imgref": "images/task-list-voluntary-contributions.png"
+},{
+"caption": "Class 3",
+"imgref": "images/Voluntary-class-3.png",
+},{
+"caption": "Direct debit",
+"imgref": "images/",
+},{
+"caption": "Tax returns",
+"imgref": "images/income-tax-returns.png",
+},{
+"caption": "Declaration",
+"imgref": "images/declaration-1.png"
+},{
+"caption": "Confirmation",
+"imgref": "images/confirmation.png"
     }]
   }
 ]}
