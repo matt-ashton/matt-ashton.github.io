@@ -618,7 +618,7 @@ var data = {
 "title": "Review your application",
 "path": [{
 "caption": "Task list",
-"imgref": "images/claim-your-allowances-task-list-1.png"
+"imgref": "images/claim-your-allowances-task-list-2.png"
 },{
 "caption": "Page 1",
 "imgref": "images/",
