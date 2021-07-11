@@ -334,7 +334,7 @@ var data = {
 "imgref": "images/5.Start-date.png"
 },{
 "caption": "Temporary",
-"imgref": "images/"
+"imgref": "images/temporary-employment.png"
 },{
 "caption": "Summary",
 "imgref": "images/7.employment-summary.png"
