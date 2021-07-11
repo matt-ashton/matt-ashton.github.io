@@ -343,7 +343,7 @@ var data = {
 "imgref": "images/8.income-estimates-employed.png"
 },{
 "caption": "Task list",
-"imgref": "images/"
+"imgref": "images/task-list-employed-2.png"
 }]
 },
 {
@@ -383,7 +383,7 @@ var data = {
 "imgref": "images/income-estimates-self-employed.png"
 },{
 "caption": "Task list",
-"imgref": "images/"
+"imgref": "images/task-list-self-employed-2.png"
 }]
 },
 {
@@ -426,7 +426,7 @@ var data = {
 "imgref": "images/income-estimates-self-employed.png"
 },{
 "caption": "Task list",
-"imgref": "images/"
+"imgref": "images/task-list-self-employed-2.png"
 }]
 },
 {
@@ -448,7 +448,7 @@ var data = {
 "imgref": "images/income-estimates-pensions.png"
 },{
 "caption": "Task list",
-"imgref": "images/"
+"imgref": "images/task-list-pensions-2.png"
 }]
 },
 {
@@ -479,7 +479,7 @@ var data = {
 "imgref": "images/income-estimates-property.png"
 },{
 "caption": "Task list",
-"imgref": "images/"
+"imgref": "images/task-list-rental-income-2.png"
 }]
 },
 {
@@ -498,7 +498,7 @@ var data = {
 "imgref": "images/income-estimates-bank-interest.png"
 },{
 "caption": "Task list",
-"imgref": "images/"
+"imgref": "images/task-list-bank-interest-2.png"
 }]
 },
 {
@@ -517,7 +517,7 @@ var data = {
 "imgref": "images/income-estimates-other-income.png"
 },{
 "caption": "Task list",
-"imgref": "images/"
+"imgref": "images/task-list-any-other-income-2.png"
 }]
 },
 {
