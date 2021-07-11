@@ -681,7 +681,7 @@ var data = {
 "imgref": "images/class-2-social-security-contributions.png",
 },{
 "caption": "Direct debit",
-"imgref": "images/",
+"imgref": "images/direct-debit.png",
 },{
 "caption": "Tax returns",
 "imgref": "images/income-tax-returns.png",
@@ -703,7 +703,7 @@ var data = {
 "imgref": "images/class-3.png",
 },{
 "caption": "Direct debit",
-"imgref": "images/",
+"imgref": "images/direct-debit.png",
 },{
 "caption": "Tax returns",
 "imgref": "images/income-tax-returns.png",
@@ -725,7 +725,7 @@ var data = {
 "imgref": "images/Voluntary-class-3.png",
 },{
 "caption": "Direct debit",
-"imgref": "images/",
+"imgref": "images/direct-debit.png",
 },{
 "caption": "Tax returns",
 "imgref": "images/income-tax-returns.png",
