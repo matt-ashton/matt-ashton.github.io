@@ -136,11 +136,17 @@ var data = {
       "caption": "Partner's details",
       "imgref": "images/16.partners-details.png"
     },{
+      "caption": "Country of birth",
+      "imgref": "images/partner's-country-of-birth.png"
+    },{
       "caption": "Partner's residence",
       "imgref": "images/17.Partners-residence.png"
     },{
       "caption": "Claim elsewhere",
       "imgref": "images/18.Family-allowance-elsewhere.png"
+    },{
+      "caption": "NI number",
+      "imgref": "images/National-Insurance-Number.png"
     },{
       "caption": "How you want it paid",
       "imgref": "images/19.How-you-want-paying.png"
@@ -243,11 +249,17 @@ var data = {
       "caption": "Summary of children",
       "imgref": "images/14.Child-summary.png"
     },{
+      "caption": "Country of birth",
+      "imgref": "images/spouse-country-of-birth.png"
+    },{
       "caption": "Spouse residence",
       "imgref": "images/17.spouse-or-civil-partner-residence.png"
     },{
       "caption": "Claim elsewhere",
       "imgref": "images/18.Family-allowance-elsewhere.png"
+    },{
+      "caption": "NI number",
+      "imgref": "images/National-Insurance-Number.png"
     },{
       "caption": "How you want it paid",
       "imgref": "images/19.How-you-want-paying.png"
