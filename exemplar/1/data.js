@@ -657,8 +657,11 @@ var data = {
 "caption": "Tax returns",
 "imgref": "images/income-tax-returns.png",
 },{
-"caption": "Declaration",
+"caption": "Declaration 1",
 "imgref": "images/declaration-1.png"
+},{
+"caption": "Declaration 2",
+"imgref": "images/Declaration-FA.png"
 },{
 "caption": "Confirmation",
 "imgref": "images/confirmation.png"
@@ -676,8 +679,11 @@ var data = {
 "caption": "Tax returns",
 "imgref": "images/income-tax-returns.png",
 },{
-"caption": "Declaration",
+"caption": "Declaration 1",
 "imgref": "images/declaration-1.png"
+},{
+"caption": "Declaration 2",
+"imgref": "images/Declaration-FA.png"
 },{
 "caption": "Confirmation",
 "imgref": "images/confirmation.png"
@@ -698,8 +704,11 @@ var data = {
 "caption": "Tax returns",
 "imgref": "images/income-tax-returns.png",
 },{
-"caption": "Declaration",
+"caption": "Declaration 1",
 "imgref": "images/declaration-1.png"
+},{
+"caption": "Declaration 2",
+"imgref": "images/Declaration-FA.png"
 },{
 "caption": "Confirmation",
 "imgref": "images/confirmation.png"
@@ -720,8 +729,11 @@ var data = {
 "caption": "Tax returns",
 "imgref": "images/income-tax-returns.png",
 },{
-"caption": "Declaration",
+"caption": "Declaration 1",
 "imgref": "images/declaration-1.png"
+},{
+"caption": "Declaration 2",
+"imgref": "images/Declaration-FA.png"
 },{
 "caption": "Confirmation",
 "imgref": "images/confirmation.png"
@@ -742,8 +754,11 @@ var data = {
 "caption": "Tax returns",
 "imgref": "images/income-tax-returns.png",
 },{
-"caption": "Declaration",
+"caption": "Declaration 1",
 "imgref": "images/declaration-1.png"
+},{
+"caption": "Declaration 2",
+"imgref": "images/Declaration-FA.png"
 },{
 "caption": "Confirmation",
 "imgref": "images/confirmation.png"
