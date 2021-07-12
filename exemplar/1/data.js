@@ -24,7 +24,6 @@ var data = {
       "caption": "Enter your email",
       "imgref": "images/2.Enter-email-address.png",
       "note": "REG-CBL-01"
-      "note": "Email address entry revealed"
     },{
       "caption": "Check your email",
       "imgref": "images/3.Check-your-email.png"
