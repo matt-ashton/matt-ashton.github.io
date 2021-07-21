@@ -310,19 +310,19 @@ var data = {
     }]
   },
   {
-  "title": "Register your arrival - outside the Bailiwick",
+  "title": "Register your arrival",
   "path": [{
     "caption": "Task list",
     "imgref": "images/10.task-list-tell-us-about-you-end.png"
-  },{
-    "caption": "Your arrival",
-    "imgref": "images/2.Where-you've-come-from.png",
   },{
     "caption": "Date of arrival",
     "imgref": "images/3.date-of-arrival.png"
   },{
     "caption": "Length of stay",
     "imgref": "images/3.length-of-stay.png"
+  },{
+    "caption": "Education status",
+    "imgref": "images/education-status.png"
   },{
     "caption": "Overseas address",
     "imgref": "images/4.overseas-address.png"
@@ -335,26 +335,7 @@ var data = {
   }]
 },
 {
-"title": "Register your arrival - not outside the Bailiwick",
-"path": [{
-  "caption": "Task list",
-  "imgref": "images/10.task-list-tell-us-about-you-end.png"
-},{
-  "caption": "Your arrival",
-  "imgref": "images/2.Where-you've-come-from.png",
-},{
-  "caption": "Education",
-  "imgref": "images/2.education-status.png"
-},{
-  "caption": "SIN",
-  "imgref": "images/3.social-insurance-number.png"
-},{
-  "caption": "Task list",
-  "imgref": "images/4.register-your-arrival-task-list-2.png"
-}]
-},
-{
-"title": "Enter your income - employment",
+"title": "Enter your income - employment, shareholder",
 "path": [{
 "caption": "Task list",
 "imgref": "images/6.register-arrival-task-list-1.png"
@@ -364,6 +345,9 @@ var data = {
 },{
 "caption": "Working arrangement",
 "imgref": "images/3.working-arrangement.png"
+},{
+"caption": "Shareholding",
+"imgref": "images/shareholding.png"
 },{
 "caption": "Employment details",
 "imgref": "images/4.employment-details.png"
@@ -674,13 +658,13 @@ var data = {
 "imgref": "images/Review-application-page-1.png",
 },{
 "caption": "Page 2",
-"imgref": "images/"
+"imgref": "images/Review-page-2.png"
 },{
 "caption": "Page 3",
-"imgref": "images/"
+"imgref": "images/review-page-3.png"
 },{
 "caption": "Page 4",
-"imgref": "images/"
+"imgref": "images/review-page-4.png"
 },{
 "caption": "Task list",
 "imgref": "images/claim-your-allowances-task-list-2.png"
