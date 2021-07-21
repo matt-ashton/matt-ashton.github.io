@@ -16,7 +16,7 @@ var data = {
       }]
     },
     {
-      "title": "Start a new application - Not eligible - returning",
+      "title": "Start a new application - Not eligible, returning",
       "path": [{
         "caption": "Start page",
         "imgref": "images/1.start-page.png"
