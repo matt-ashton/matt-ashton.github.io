@@ -3,7 +3,7 @@ var data = {
   "last-updated": "05 July 2021",
   "userjourneys": [
     {
-      "title": "Start a new application - Eligible",
+      "title": "Start a new application - eligible",
       "path": [{
         "caption": "Start page",
         "imgref": "images/1.start-page.png"
@@ -16,7 +16,7 @@ var data = {
       }]
     },
     {
-      "title": "Start a new application - Not eligible, returning",
+      "title": "Start a new application - not eligible, returning",
       "path": [{
         "caption": "Start page",
         "imgref": "images/1.start-page.png"
@@ -35,7 +35,7 @@ var data = {
       }]
     },
     {
-      "title": "Start a new application - Not eligible, student",
+      "title": "Start a new application - not eligible, student",
       "path": [{
         "caption": "Start page",
         "imgref": "images/1.start-page.png"
