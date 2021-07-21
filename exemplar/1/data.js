@@ -737,13 +737,38 @@ var data = {
 }]
 },
 {
-"title": "Send your application - Class 3 (non-employed)",
+"title": "Send your application - Class 3 (non-employed, under pension age)",
 "path": [{
 "caption": "Task list",
 "imgref": "images/task-list-class-3.png"
 },{
 "caption": "Class 3",
 "imgref": "images/class-3.png",
+},{
+"caption": "Direct debit",
+"imgref": "images/direct-debit.png",
+},{
+"caption": "Tax returns",
+"imgref": "images/income-tax-returns.png",
+},{
+"caption": "Declaration 1",
+"imgref": "images/declaration-1.png"
+},{
+"caption": "Declaration 2",
+"imgref": "images/Declaration-FA.png"
+},{
+"caption": "Confirmation",
+"imgref": "images/confirmation.png"
+}]
+},
+{
+"title": "Send your application - Class 3 (non-employed, over pension age)",
+"path": [{
+"caption": "Task list",
+"imgref": "images/task-list-class-3.png"
+},{
+"caption": "Class 3",
+"imgref": "images/class-3-over-pension-age.png",
 },{
 "caption": "Direct debit",
 "imgref": "images/direct-debit.png",
