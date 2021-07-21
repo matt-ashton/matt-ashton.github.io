@@ -35,6 +35,25 @@ var data = {
       }]
     },
     {
+      "title": "Start a new application - Not eligible, student",
+      "path": [{
+        "caption": "Start page",
+        "imgref": "images/1.start-page.png"
+      },{
+        "caption": "Start new application",
+        "imgref": "images/2.Start-new-application.png"
+      },{
+        "caption": "Returning",
+        "imgref": "images/returning.png"
+      },{
+        "caption": "Student",
+        "imgref": "images/student-yes.png"
+      },{
+        "caption": "Not eligible",
+        "imgref": "images/not-eligible-student.png"
+      }]
+    },
+    {
     "title": "Save and come back later",
     "path": [{
       "caption": "Save and come back",
