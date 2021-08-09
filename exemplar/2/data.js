@@ -1,7 +1,7 @@
 var data = {
-  "service": "2. Apprenticeship applications",
+  "service": "2. Check your current coding notice",
   "last-updated": "12 June 2014",
-  "userjourneys": [            
+  "userjourneys": [
     {
       "title": "Find an apprenticeship",
       "path": [{
