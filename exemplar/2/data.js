@@ -23,48 +23,6 @@ var data = {
       }]
     },
     {
-      "title": "Create an account",
-      "path": [{
-        "caption": "Home",
-        "imgref": "images/1.home.png"
-      },{
-        "caption": "Apprentice options",
-        "imgref": "images/2.apprentice.png"
-      },{
-        "caption": "Create an account",
-        "imgref": "images/6.create-account.png"
-      }]
-    },
-    {
-      "title": "Apply for a vacancy",
-      "path": [{
-        "caption": "Home",
-        "imgref": "images/1.home.png"
-      },{
-        "caption": "Apprentice options",
-        "imgref": "images/2.apprentice.png"
-      },{
-        "caption": "Apply for a vacancy",
-        "imgref": "images/7.apply-vacancy.png"
-      }]
-    },
-    {
-      "title": "Register as an employer",
-      "path": [{
-        "caption": "Home",
-        "imgref": "images/1.home.png"
-      },{
-        "caption": "Employer options",
-        "imgref": "images/22.employer.png"
-      },{
-        "caption": "Register",
-        "imgref": "images/8.register-employer.png"
-      },{
-        "caption": "Done",
-        "imgref": "images/9.register-employer-done.png"
-      }]
-    },
-    {
       "title": "Post a vacancy",
       "path": [{
         "caption": "Home",
