@@ -1,5 +1,5 @@
 var data = {
-  "service": "1. Check your current coding notice",
+  "service": "1. Check your current coding notice"<span class="hmcts-badge">Recently added</span>,
   "last-updated": "09 August 2021",
   "userjourneys": [
     {
