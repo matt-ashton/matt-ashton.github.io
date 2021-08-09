@@ -1,6 +1,6 @@
 var data = {
-  "service": "2. Check your current coding notice",
-  "last-updated": "12 June 2014",
+  "service": "1. Check your current coding notice",
+  "last-updated": "09 August 2021",
   "userjourneys": [
     {
       "title": "Find an apprenticeship",
