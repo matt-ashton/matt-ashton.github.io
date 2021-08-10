@@ -77,22 +77,22 @@ var data = {
         "imgref": "images/redundancy/start-page.png"
       },{
         "caption": "Change type",
-        "imgref": "images/redundancy/"
+        "imgref": "images/redundancy/change-type-income-ended.png"
       },{
         "caption": "Add ended income",
-        "imgref": "images/redundancy/"
+        "imgref": "images/redundancy/income-ended-1.png"
       },{
         "caption": "income added",
-        "imgref": "images/redundancy/"
+        "imgref": "images/redundancy/ended-income-added-1.png"
       },{
         "caption": "Add ended income",
-        "imgref": "images/redundancy/"
+        "imgref": "images/redundancy/ended-income-2.png"
       },{
         "caption": "Income added",
-        "imgref": "images/redundancy/"
+        "imgref": "images/redundancy/ended-income-added-2.png"
       },{
         "caption": "Summary",
-        "imgref": "images/redundancy/"
+        "imgref": "images/redundancy/ended-summary.png"
       },{
         "caption": "Declaration",
         "imgref": "images/redundancy/declaration.png"
