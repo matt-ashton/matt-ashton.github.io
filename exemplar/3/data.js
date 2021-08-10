@@ -33,7 +33,7 @@ var data = {
         "imgref": "images/redundancy/confirmation.png"
       },{
         "caption": "Feedback",
-        "imgref": "images/redundancy/"
+        "imgref": "images/redundancy/feedback.png"
       }]
     },
     {
@@ -43,22 +43,22 @@ var data = {
         "imgref": "images/redundancy/start-page.png"
       },{
         "caption": "Change type",
-        "imgref": "images/redundancy/part-1.2.job-title.png"
+        "imgref": "images/redundancy/change-type-missing.png"
       },{
         "caption": "Add missing income",
-        "imgref": "images/redundancy/part-1.3.start-date.png"
+        "imgref": "images/redundancy/add-missing-income-1.png"
       },{
         "caption": "income added",
-        "imgref": "images/redundancy/part-1.4.end-date.png"
+        "imgref": "images/redundancy/missing-income-1-added.png"
       },{
         "caption": "Add missing income",
-        "imgref": "images/redundancy/part-1.5.notice-period.png"
+        "imgref": "images/redundancy/other-income-missing-2.png"
       },{
         "caption": "Income added",
-        "imgref": "images/redundancy/part-1.6.claim-loss-of-notice.png"
+        "imgref": "images/redundancy/missing-incomes-added-2.png"
       },{
         "caption": "Summary",
-        "imgref": "images/redundancy/part-1.7.summary.png"
+        "imgref": "images/missing-income-summary.png"
       },{
         "caption": "Declaration",
         "imgref": "images/redundancy/declaration.png"
@@ -67,7 +67,7 @@ var data = {
         "imgref": "images/redundancy/confirmation.png"
       },{
         "caption": "Feedback",
-        "imgref": "images/redundancy/part-1.7.summary.png"
+        "imgref": "images/redundancy/feedback.png"
       }]
     },
     {
@@ -77,22 +77,22 @@ var data = {
         "imgref": "images/redundancy/start-page.png"
       },{
         "caption": "Change type",
-        "imgref": "images/redundancy/part-1.2.job-title.png"
+        "imgref": "images/redundancy/"
       },{
         "caption": "Add ended income",
-        "imgref": "images/redundancy/part-1.3.start-date.png"
+        "imgref": "images/redundancy/"
       },{
         "caption": "income added",
-        "imgref": "images/redundancy/part-1.4.end-date.png"
+        "imgref": "images/redundancy/"
       },{
         "caption": "Add ended income",
-        "imgref": "images/redundancy/part-1.5.notice-period.png"
+        "imgref": "images/redundancy/"
       },{
         "caption": "Income added",
-        "imgref": "images/redundancy/part-1.6.claim-loss-of-notice.png"
+        "imgref": "images/redundancy/"
       },{
         "caption": "Summary",
-        "imgref": "images/redundancy/part-1.7.summary.png"
+        "imgref": "images/redundancy/"
       },{
         "caption": "Declaration",
         "imgref": "images/redundancy/declaration.png"
@@ -101,7 +101,7 @@ var data = {
         "imgref": "images/redundancy/confirmation.png"
       },{
         "caption": "Feedback",
-        "imgref": "images/redundancy/part-1.7.summary.png"
+        "imgref": "images/redundancy/feedback.png"
       }]
     }
   ]}
