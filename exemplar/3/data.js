@@ -40,7 +40,7 @@ var data = {
       "title": "Tell us about income that is missing",
       "path": [{
         "caption": "Start page",
-        "imgref": "images/redundancy/part-1.1.intro.png"
+        "imgref": "images/redundancy/start-page.png"
       },{
         "caption": "Change type",
         "imgref": "images/redundancy/part-1.2.job-title.png"
@@ -61,10 +61,10 @@ var data = {
         "imgref": "images/redundancy/part-1.7.summary.png"
       },{
         "caption": "Declaration",
-        "imgref": "images/redundancy/part-1.7.summary.png"
+        "imgref": "images/redundancy/declaration.png"
       },{
         "caption": "Confirmation",
-        "imgref": "images/redundancy/part-1.7.summary.png"
+        "imgref": "images/redundancy/confirmation.png"
       },{
         "caption": "Feedback",
         "imgref": "images/redundancy/part-1.7.summary.png"
@@ -74,7 +74,7 @@ var data = {
       "title": "Tell us about income that has ended",
       "path": [{
         "caption": "Start page",
-        "imgref": "images/redundancy/part-2.1.intro.png"
+        "imgref": "images/redundancy/start-page.png"
       },{
         "caption": "Change type",
         "imgref": "images/redundancy/part-1.2.job-title.png"
@@ -95,10 +95,10 @@ var data = {
         "imgref": "images/redundancy/part-1.7.summary.png"
       },{
         "caption": "Declaration",
-        "imgref": "images/redundancy/part-1.7.summary.png"
+        "imgref": "images/redundancy/declaration.png"
       },{
         "caption": "Confirmation",
-        "imgref": "images/redundancy/part-1.7.summary.png"
+        "imgref": "images/redundancy/confirmation.png"
       },{
         "caption": "Feedback",
         "imgref": "images/redundancy/part-1.7.summary.png"
