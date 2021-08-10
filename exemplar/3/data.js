@@ -6,7 +6,7 @@ var data = {
       "title": "Confirm your details",
       "path": [{
         "caption": "Start page",
-        "imgref": "images/redundancy/1.start-page.png"
+        "imgref": "images/redundancy/start-page.png"
       },{
         "caption": "Confirm identity",
         "imgref": "images/redundancy/2.confirm-identity.png"
