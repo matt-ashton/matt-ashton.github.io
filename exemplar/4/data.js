@@ -42,7 +42,8 @@ var data = {
         "caption": "Feedback",
         "imgref": "images/allowances-feedback.png"
       }]
-    },    {
+    },
+    {
       "title": "Tell us about an allowance or relief that is missing",
       "path": [{
         "caption": "Start page",
@@ -82,7 +83,8 @@ var data = {
         "caption": "Feedback",
         "imgref": "images/allowances-feedback.png"
       }]
-    },    {
+    },
+    {
       "title": "Tell us about an allowance or relief that had ended",
       "path": [{
         "caption": "Start page",
