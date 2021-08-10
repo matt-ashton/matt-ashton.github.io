@@ -3,64 +3,124 @@ var data = {
   "last-updated": "10 August 2021",
   "userjourneys": [
     {
-      "title": "Renew 2 patents and pay by debit card",
+      "title": "Tell us about an allowance or relief that is incorrect",
       "path": [{
-        "caption": "Enter patent number",
-        "imgref": "images/1.patent-number.png",
-        "note": "User enters patent number and clicks the 'Next button'."
+        "caption": "Start page",
+        "imgref": "images/allowances-&-reliefs-start-page.png"
       },{
-        "caption": "View patent details",
-        "imgref": "images/2.patent-details.png",
-        "note": [
-          "User views patent details and clicks 'Add another'.",
-          "If they click 'Remove' it just removes the patent."
-        ]
+        "caption": "Change type",
+        "imgref": "images/allowance-change-type-incorrect.png"
+        "note": "User can select more than one type of change if needed."
       },{
-        "caption": "Add another patent",
-        "imgref": "images/3.add-another.png",
-        "note": "User enters another patent number."
+        "caption": "Add incorrect allowance",
+        "imgref": "images/incorrect-allowance-1.png"
       },{
-        "caption": "Add renewal details",
-        "imgref": "images/4.add-renewal-details.png",
-        "note": "User fills out the details on the rest of the page."
+        "caption": "Allowance added",
+        "imgref": "images/incorrect-allowance-added-1.png"
       },{
-        "caption": "Choose payment method",
-        "imgref": "images/5.payment-method.png",
-        "note": "User chooses debit or credit card."
+        "caption": "Add incorrect allowance",
+        "imgref": "images/incorrect-allowance-2.png"
       },{
-        "caption": "IPO number?",
-        "imgref": "images/6.IPO-number.png",
-        "note": "User is asked for an optional IPO number."
+        "caption": "Allowance added",
+        "imgref": "images/Incorrect-allowances-added-2.png"
       },{
-        "caption": "Add IPO number",
-        "imgref": "images/7.add-IPO-number.png",
-        "note": "User enters IPO number."
+        "caption": "Add incorrect allowance",
+        "imgref": "images/incorrect-allowance-3.png"
       },{
-        "caption": "Payment",
-        "imgref": "images/8.payment.png",
-        "note": "User enters payment details into ATOS website."
+        "caption": "Allowance added",
+        "imgref": "images/incorrect-allowance-added-3.png"
+      },{
+        "caption": "Summary",
+        "imgref": "images/allowance-incorrect-summary.png"
+      },{
+        "caption": "Declaration",
+        "imgref": "images/allowance-declaration.png"
+      },{
+        "caption": "Confirmation",
+        "imgref": "images/allowance-confirmation.png"
+      },{
+        "caption": "Feedback",
+        "imgref": "images/allowances-feedback.png"
       }]
     },    {
-      "title": "Pay by IPO deposit account",
+      "title": "Tell us about an allowance or relief that is missing",
       "path": [{
-        "caption": "Choose payment method",
-        "imgref": "images/5.payment-method.png",
-        "note": "Previous screens are as per scenario 1. User chooses IPO deposit account."
+        "caption": "Start page",
+        "imgref": "images/allowances-&-reliefs-start-page.png"
       },{
-        "caption": "IPO details",
-        "imgref": "images/9.IPO-deposit-account-details.png",
-        "note": ""
+        "caption": "Change type",
+        "imgref": "images/"
+        "note": "User can select more than one type of change if needed."
+      },{
+        "caption": "Add missing allowance",
+        "imgref": "images/"
+      },{
+        "caption": "Allowance added",
+        "imgref": "images/"
+      },{
+        "caption": "Add missing allowance",
+        "imgref": "images/"
+      },{
+        "caption": "Allowance added",
+        "imgref": "images/"
+      },{
+        "caption": "Add missing allowance",
+        "imgref": "images/"
+      },{
+        "caption": "Allowance added",
+        "imgref": "images/"
+      },{
+        "caption": "Summary",
+        "imgref": "images/"
+      },{
+        "caption": "Declaration",
+        "imgref": "images/allowance-declaration.png"
+      },{
+        "caption": "Confirmation",
+        "imgref": "images/allowance-confirmation.png"
+      },{
+        "caption": "Feedback",
+        "imgref": "images/allowances-feedback.png"
       }]
     },    {
-      "title": "User doesn't know patent number",
+      "title": "Tell us about an allowance or relief that had ended",
       "path": [{
-        "caption": "Enter patent number",
-        "imgref": "images/1.patent-number.png",
-        "note": "User doesn't know number, so they click the link."
+        "caption": "Start page",
+        "imgref": "images/allowances-&-reliefs-start-page.png"
       },{
-        "caption": "IPO details",
-        "imgref": "images/10.search-for-patent.png",
-        "note": "User is taken to different website."
+        "caption": "Change type",
+        "imgref": "images/"
+        "note": "User can select more than one type of change if needed."
+      },{
+        "caption": "Add ended allowance",
+        "imgref": "images/"
+      },{
+        "caption": "Allowance added",
+        "imgref": "images/"
+      },{
+        "caption": "Add ended allowance",
+        "imgref": "images/"
+      },{
+        "caption": "Allowance added",
+        "imgref": "images/"
+      },{
+        "caption": "Add ended allowance",
+        "imgref": "images/"
+      },{
+        "caption": "Allowance added",
+        "imgref": "images/"
+      },{
+        "caption": "Summary",
+        "imgref": "images/"
+      },{
+        "caption": "Declaration",
+        "imgref": "images/allowance-declaration.png"
+      },{
+        "caption": "Confirmation",
+        "imgref": "images/allowance-confirmation.png"
+      },{
+        "caption": "Feedback",
+        "imgref": "images/allowances-feedback.png"
       }]
     }
   ]}
