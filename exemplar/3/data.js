@@ -58,7 +58,7 @@ var data = {
         "imgref": "images/redundancy/missing-incomes-added-2.png"
       },{
         "caption": "Summary",
-        "imgref": "images/missing-income-summary.png"
+        "imgref": "images/redundancy/missing-income-summary.png"
       },{
         "caption": "Declaration",
         "imgref": "images/redundancy/declaration.png"
