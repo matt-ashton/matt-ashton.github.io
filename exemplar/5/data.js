@@ -362,38 +362,38 @@ var data = {
 }]
 },
 {
-"title": "Enter your income - rental income",
+"title": "Complete your return - owner occupied property",
 "path": [{
-"caption": "Task list",
-"imgref": "images/6.register-arrival-task-list-1.png"
-},{
-"caption": "Your income",
-"imgref": "images/select-income-rental-income.png",
-},{
 "caption": "Address",
-"imgref": "images/rental-income.png"
+"imgref": "images/PPR_address.png"
 },{
-"caption": "Property details",
-"imgref": "images/let-property-details.png"
+"caption": "Purchase or sale",
+"imgref": "images/purchase_sale_details.png",
 },{
-"caption": "Income",
-"imgref": "images/rental-income-estimate.png"
+"caption": "Claim interest relief",
+"imgref": "images/claim_interest_relief_PPR.png"
 },{
-"caption": "Interest",
-"imgref": "images/interest-relief.png"
+"caption": "Mortgage details",
+"imgref": "images/PPR_mortgage_details.png"
+},{
+"caption": "Mortgage purpose",
+"imgref": "images/PPR_mortgage_purpose.png"
+},{
+"caption": "Mortgage information",
+"imgref": "images/PPR_mortgage_information.png"
 },{
 "caption": "Summary",
-"imgref": "images/let-property-summary.png"
+"imgref": "images/PPR_mortgage_summary.png"
 },{
-"caption": "Income estimates",
-"imgref": "images/income-estimates-property.png"
+"caption": "Other information",
+"imgref": "images/PPR_other_information.png"
 },{
-"caption": "Task list",
-"imgref": "images/task-list-rental-income-2.png"
+"caption": "Summary",
+"imgref": "images/PPR_property_summary.png"
 }]
 },
 {
-"title": "Enter your income - bank interest",
+"title": "Complete your return - Renting rooms in your home",
 "path": [{
 "caption": "Task list",
 "imgref": "images/6.register-arrival-task-list-1.png"
