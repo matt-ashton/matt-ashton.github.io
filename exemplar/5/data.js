@@ -3,7 +3,7 @@ var data = {
   "last-updated": "05 July 2021",
   "userjourneys": [
     {
-      "title": "Tell us about you - change of marital status, marriage / civil partnership",
+      "title": "Marital status change - marriage / civil partnership",
       "path": [{
         "caption": "Personal details",
         "imgref": "images/Personal_Details_Marital_Status.png"
@@ -25,7 +25,7 @@ var data = {
       }]
     },
     {
-      "title": "Tell us about you - change of marital status, separation",
+      "title": "Marital status change - separation",
       "path": [{
         "caption": "Personal details",
         "imgref": "images/Personal_Details_Marital_Status.png"
@@ -44,7 +44,7 @@ var data = {
       }]
     },
     {
-      "title": "Tell us about you - change of marital status, death of spouse",
+      "title": "Marital status change - death of spouse",
       "path": [{
         "caption": "Personal details",
         "imgref": "images/Personal_Details_Marital_Status.png"
@@ -72,7 +72,7 @@ var data = {
       }]
     },
     {
-      "title": "Tell us about you - change of address",
+      "title": "Change of address",
       "path": [{
         "caption": "Personal details",
         "imgref": "images/personal_details_address.png"
@@ -91,7 +91,7 @@ var data = {
       }]
     },
     {
-    "title": "Tell us about you - charge of child allowance, loan parent",
+    "title": "Claim charge of child allowance as a loan parent",
     "path": [{
       "caption": "Children",
       "imgref": "images/details_of_children.png"
@@ -125,7 +125,7 @@ var data = {
     }]
   },
   {
-    "title": "Tell us about you - charge of child allowance, carer support",
+    "title": "Claim charge of child allowance for carer support",
     "path": [{
       "caption": "Children",
       "imgref": "images/details_of_children.png"
