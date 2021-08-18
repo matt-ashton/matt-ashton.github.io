@@ -108,7 +108,7 @@ var data = {
       "caption": "Child details >19",
       "imgref": "images/child_details_over_19.png"
     },{
-      "caption": "Dependent relative allowance",
+      "caption": "Dependent relative",
       "imgref": "images/loan_parent_dra.png"
     },{
       "caption": "Education details",
@@ -154,7 +154,7 @@ var data = {
       "caption": "Child details >19",
       "imgref": "images/child_details_over_19.png"
     },{
-      "caption": "Dependent relative allowance",
+      "caption": "Dependent relative",
       "imgref": "images/loan_parent_dra.png"
     },{
       "caption": "Education details",
