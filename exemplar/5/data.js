@@ -6,7 +6,7 @@ var data = {
       "title": "Tell us about you - change of marital status, marriage / civil partnership",
       "path": [{
         "caption": "Personal details",
-        "imgref": "images/"
+        "imgref": "images/Personal_Details_Marital_Status.png"
       },{
         "caption": "Type of change",
         "imgref": "images/"
