@@ -255,7 +255,7 @@ var data = {
     "imgref": "images/Days_during_2020.png"
   },{
     "caption": "Previous 4 years",
-    "imgref": "images/previous_4_years.pngg"
+    "imgref": "images/previous_4_years.png"
   }]
 },
 {
