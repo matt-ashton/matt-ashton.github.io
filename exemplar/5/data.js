@@ -9,13 +9,13 @@ var data = {
         "imgref": "images/Personal_Details_Marital_Status.png"
       },{
         "caption": "Type of change",
-        "imgref": "images/"
+        "imgref": "images/Type_of_marital_change.png"
       },{
         "caption": "Date of marriage",
-        "imgref": "images/"
+        "imgref": "images/date_of_marriage.png"
       },{
         "caption": "Spouse details",
-        "imgref": "images/"
+        "imgref": "images/marriage_spouse_details.png"
       },{
         "caption": "Summary",
         "imgref": "images/"
