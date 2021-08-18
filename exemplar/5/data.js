@@ -256,40 +256,37 @@ var data = {
   },{
     "caption": "Previous 4 years",
     "imgref": "images/previous_4_years.png"
-  }]
-},
-{
-"title": "Enter your income - employment, shareholder",
+   }]
+ },
+ {
+"title": "Complete your return - employment",
 "path": [{
-"caption": "Task list",
-"imgref": "images/6.register-arrival-task-list-1.png"
-},{
-"caption": "Your income",
-"imgref": "images/2.Your-income-employment.png",
-},{
-"caption": "Working arrangement",
-"imgref": "images/3.working-arrangement.png"
-},{
-"caption": "Shareholding",
-"imgref": "images/shareholding.png"
-},{
 "caption": "Employment details",
-"imgref": "images/4.employment-details.png"
+"imgref": "images/employment_details.png"
 },{
-"caption": "Start date",
-"imgref": "images/5.Start-date.png"
+"caption": "Other payments",
+"imgref": "images/other_payments.png",
 },{
-"caption": "Temporary",
-"imgref": "images/temporary-employment.png"
+"caption": "Employment benefits",
+"imgref": "images/employment_benefits.png"
 },{
 "caption": "Summary",
-"imgref": "images/7.employment-summary.png"
+"imgref": "images/benefits_summary.png"
 },{
-"caption": "Income estimates",
-"imgref": "images/8.income-estimates-employed.png"
+"caption": "Deductions",
+"imgref": "images/claimable_deductions.png"
 },{
-"caption": "Task list",
-"imgref": "images/task-list-employed-2.png"
+"caption": "Expenses",
+"imgref": "images/employment_expenses.png"
+},{
+"caption": "Summary",
+"imgref": "images/expense_summary.png"
+},{
+"caption": "Other information",
+"imgref": "images/Other_employment_information.png"
+},{
+"caption": "Summary",
+"imgref": "images/employment_summary.png"
 }]
 },
 {
