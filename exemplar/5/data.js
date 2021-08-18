@@ -343,25 +343,22 @@ var data = {
   }]
   },
   {
-"title": "Enter your income - pensions",
+"title": "Complete your return - pensions",
 "path": [{
-"caption": "Task list",
-"imgref": "images/6.register-arrival-task-list-1.png"
+"caption": "Pension details",
+"imgref": "images/pension_details.png"
 },{
-"caption": "Your income",
-"imgref": "images/select-your-income-pensions.png",
+"caption": "Pension frequency",
+"imgref": "images/pension_frequency.png",
 },{
-"caption": "pension details",
-"imgref": "images/pension-details.png"
+"caption": "Pension income",
+"imgref": "images/pension_income.png"
 },{
-"caption": "Summary",
-"imgref": "images/pensions-summary.png"
+"caption": "Other information",
+"imgref": "images/Other_pension_information.png"
 },{
-"caption": "Income estimates",
-"imgref": "images/income-estimates-pensions.png"
-},{
-"caption": "Task list",
-"imgref": "images/task-list-pensions-2.png"
+"caption": "Pension summary",
+"imgref": "images/pension_summary.png"
 }]
 },
 {
