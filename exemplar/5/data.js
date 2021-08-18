@@ -28,16 +28,16 @@ var data = {
       "title": "Tell us about you - change of marital status, separation",
       "path": [{
         "caption": "Personal details",
-        "imgref": "images/"
+        "imgref": "images/Personal_Details_Marital_Status.png"
       },{
         "caption": "Type of change",
-        "imgref": "images/"
+        "imgref": "images/Type_of_marital_change.png"
       },{
         "caption": "Date of separation",
-        "imgref": "images/"
+        "imgref": "images/date_of_separation.png"
       },{
         "caption": "Summary",
-        "imgref": "images/"
+        "imgref": "images/separation_summary.png"
       },{
         "caption": "Confirmation",
         "imgref": "images/"
