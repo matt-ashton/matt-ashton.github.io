@@ -249,28 +249,13 @@ var data = {
     }]
   },
   {
-  "title": "Register your arrival",
+  "title": "Complete your return - residence",
   "path": [{
-    "caption": "Task list",
-    "imgref": "images/10.task-list-tell-us-about-you-end.png"
+    "caption": "Days during 2020",
+    "imgref": "images/Days_during_2020.png"
   },{
-    "caption": "Date of arrival",
-    "imgref": "images/3.date-of-arrival.png"
-  },{
-    "caption": "Length of stay",
-    "imgref": "images/3.length-of-stay.png"
-  },{
-    "caption": "Education status",
-    "imgref": "images/education-status.png"
-  },{
-    "caption": "Overseas address",
-    "imgref": "images/4.overseas-address.png"
-  },{
-    "caption": "Social Security",
-    "imgref": "images/5.social-security.png"
-  },{
-    "caption": "Task list",
-    "imgref": "images/6.register-arrival-task-list-1.png"
+    "caption": "Previous 4 years",
+    "imgref": "images/previous_4_years.pngg"
   }]
 },
 {
