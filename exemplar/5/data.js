@@ -230,76 +230,22 @@ var data = {
     }]
   },
   {
-    "title": "Tell us about you - married person, claims family allowance",
+    "title": "Tailor your return",
     "path": [{
-      "caption": "Task list",
-      "imgref": "images/3.task-list.png"
+      "caption": "Page 1",
+      "imgref": "images/tailor_your_return_page_1.png"
     },{
-      "caption": "Name",
-      "imgref": "images/2.Enter-your-name.png"
+      "caption": "Page 2",
+      "imgref": "images/tailor_your_return_page_2.png"
     },{
-      "caption": "Date of birth",
-      "imgref": "images/3.date-of-birth.png",
+      "caption": "Page 3",
+      "imgref": "images/tailor_your_return_page_3.png",
     },{
-      "caption": "Nationality",
-      "imgref": "images/4.Enter-your-nationality.png"
+      "caption": "Page 4",
+      "imgref": "images/tailor_your_return_page_4.png"
     },{
-      "caption": "Bailiwick address",
-      "imgref": "images/5.Bailiwick-address.png"
-    },{
-      "caption": "Email",
-      "imgref": "images/6.Email-address.png"
-    },{
-      "caption": "Phone number",
-      "imgref": "images/7.phone-number.png"
-    },{
-      "caption": "Marital status",
-      "imgref": "images/8.Marital-status.png"
-    },{
-      "caption": "Spouse details",
-      "imgref": "images/9.spouse-or-civil-partner.png"
-    },{
-      "caption": "Date of marriage",
-      "imgref": "images/10.date-of-marriage.png"
-    },{
-      "caption": "Children",
-      "imgref": "images/9.children.png"
-    },{
-      "caption": "Child's details",
-      "imgref": "images/10.child-details.png"
-    },{
-      "caption": "Country of birth",
-      "imgref": "images/11.Country-of-birth.png"
-    },{
-      "caption": "Family allowance",
-      "imgref": "images/12.claim-family-allowance.png"
-    },{
-      "caption": "Identity documents",
-      "imgref": "images/13.identity-documents.png"
-    },{
-      "caption": "Summary of children",
-      "imgref": "images/14.Child-summary.png"
-    },{
-      "caption": "Country of birth",
-      "imgref": "images/spouse-country-of-birth.png"
-    },{
-      "caption": "Spouse residence",
-      "imgref": "images/17.spouse-or-civil-partner-residence.png"
-    },{
-      "caption": "Claim elsewhere",
-      "imgref": "images/18.Family-allowance-elsewhere.png"
-    },{
-      "caption": "NI number",
-      "imgref": "images/National-Insurance-Number.png"
-    },{
-      "caption": "How you want it paid",
-      "imgref": "images/19.How-you-want-paying.png"
-    },{
-      "caption": "Bank details",
-      "imgref": "images/20.Enter-banks-details.png"
-    },{
-      "caption": "Task list",
-      "imgref": "images/Tasklist - Married, claiming family allowance.png"
+      "caption": "Check progress",
+      "imgref": "images/tailor_your_return_progress.png"
     }]
   },
   {
