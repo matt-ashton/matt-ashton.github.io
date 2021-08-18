@@ -290,43 +290,28 @@ var data = {
 }]
 },
 {
-"title": "Enter your income - self-employed, sole trader",
+"title": "Complete your return - self-employment, not first year of trading, not claiming annual allowances & turnover <£15,000",
 "path": [{
-"caption": "Task list",
-"imgref": "images/6.register-arrival-task-list-1.png"
-},{
-"caption": "Your income",
-"imgref": "images/3.select-income-self-employed.png",
-},{
-"caption": "Business type",
-"imgref": "images/4.business-type.png"
-},{
 "caption": "Business details",
-"imgref": "images/5.business-details.png"
+"imgref": "images/Business_details.png"
 },{
-"caption": "Start date",
-"imgref": "images/6.date-business-started.png"
+"caption": "Accounting period",
+"imgref": "images/accounting_period.png",
 },{
-"caption": "Business address",
-"imgref": "images/7.Business-address.png"
+"caption": "Business income",
+"imgref": "images/business_income_1.png"
 },{
-"caption": "Address",
-"imgref": "images/8.Enter-business-address.png"
+"caption": "Annual allowances",
+"imgref": "images/annual_allowance_no.png"
 },{
-"caption": "Accounts",
-"imgref": "images/9.accounting-period.png"
+"caption": "Allowable expenses",
+"imgref": "images/allowable_expenses_business.png"
 },{
-"caption": "Profit or loss",
-"imgref": "images/10.profit-or-loss-estimate.png"
+"caption": "Other information",
+"imgref": "images/Other_Business_information.png"
 },{
 "caption": "Summary",
-"imgref": "images/11.Self-employment-summary.png"
-},{
-"caption": "Income estimates",
-"imgref": "images/income-estimates-self-employed.png"
-},{
-"caption": "Task list",
-"imgref": "images/task-list-self-employed-2.png"
+"imgref": "images/self-employment_summary.png"
 }]
 },
 {
