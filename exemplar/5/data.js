@@ -91,22 +91,37 @@ var data = {
       }]
     },
     {
-    "title": "Go back to your application",
+    "title": "Tell us about you - charge of child allowance, loan parent",
     "path": [{
-      "caption": "Start page",
-      "imgref": "images/1.start-page.png"
+      "caption": "Children",
+      "imgref": "images/details_of_children.png"
     },{
-      "caption": "Go back to application",
-      "imgref": "images/2.Go-back-to-application.png"
+      "caption": "Lone parent",
+      "imgref": "images/lone_parent.png"
     },{
-      "caption": "Sign in",
-      "imgref": "images/3.sign-in.png",
+      "caption": "Child details <19",
+      "imgref": "images/child_details_under_19.png",
     },{
-      "caption": "Link sent",
-      "imgref": "images/link-sent-v0.3.png"
+      "caption": "Child summary",
+      "imgref": "images/child_summary_1.png"
     },{
-      "caption": "Email resent",
-      "imgref": "images/5.email-resent.png"
+      "caption": "Child details >19",
+      "imgref": "images/child_details_over_19.png"
+    },{
+      "caption": "Dependent relative allowance",
+      "imgref": "images/loan_parent_dra.png"
+    },{
+      "caption": "Education details",
+      "imgref": "images/lone_parent_education_details.png"
+    },{
+      "caption": "Financial support",
+      "imgref": "images/lone_parent_financial_support.png"
+    },{
+      "caption": "Other claimant",
+      "imgref": "images/lone_parent_other_claimant.png"
+    },{
+      "caption": "Summary",
+      "imgref": "images/lone_parent_summary_2.png"
     }]
   },
   {
