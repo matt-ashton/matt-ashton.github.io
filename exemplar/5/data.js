@@ -315,49 +315,34 @@ var data = {
 }]
 },
 {
-"title": "Enter your income - self-employed, business partnership",
+"title": "Complete your return - self-employment, first year of trading or claiming annual allowances or turnover >£15,000",
 "path": [{
-"caption": "Task list",
-"imgref": "images/6.register-arrival-task-list-1.png"
+  "caption": "Business details",
+  "imgref": "images/Business_details.png"
+  },{
+  "caption": "Accounting period",
+  "imgref": "images/accounting_period.png",
+  },{
+  "caption": "Business income",
+  "imgref": "images/business_income_2.png"
+  },{
+  "caption": "Profit or loss",
+  "imgref": "images/profit_or_loss.png"
+  },{
+  "caption": "Upload accounts",
+  "imgref": "images/upload_business_accounts.png"
+  },{
+  "caption": "Accounting details",
+  "imgref": "images/accounting_details.png"
 },{
-"caption": "Your income",
-"imgref": "images/3.select-income-self-employed.png",
-},{
-"caption": "Business type",
-"imgref": "images/4.business-type.png"
-},{
-"caption": "Business details",
-"imgref": "images/5.business-details.png"
-},{
-"caption": "Start date",
-"imgref": "images/6.date-business-started.png"
-},{
-"caption": "Business address",
-"imgref": "images/7.Business-address.png"
-},{
-"caption": "Address",
-"imgref": "images/8.Enter-business-address.png"
-},{
-"caption": "Business partner",
-"imgref": "images/self-employed-partners.png"
-},{
-"caption": "Accounts",
-"imgref": "images/9.accounting-period.png"
-},{
-"caption": "Profit or loss",
-"imgref": "images/10.profit-or-loss-estimate.png"
-},{
-"caption": "Summary",
-"imgref": "images/11.Self-employment-summary.png"
-},{
-"caption": "Income estimates",
-"imgref": "images/income-estimates-self-employed.png"
-},{
-"caption": "Task list",
-"imgref": "images/task-list-self-employed-2.png"
-}]
-},
-{
+"caption": "Other information",
+"imgref": "images/Other_Business_information.png"
+  },{
+  "caption": "Summary",
+  "imgref": "images/self-employment_summary.png"
+  }]
+  },
+  {
 "title": "Enter your income - pensions",
 "path": [{
 "caption": "Task list",
