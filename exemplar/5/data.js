@@ -393,63 +393,69 @@ var data = {
 }]
 },
 {
-"title": "Complete your return - Renting rooms in your home",
+"title": "Complete your return - renting rooms in your home",
 "path": [{
-"caption": "Task list",
-"imgref": "images/6.register-arrival-task-list-1.png"
-},{
-"caption": "Your income",
-"imgref": "images/select-your-income-bank-interest.png",
-},{
-"caption": "Interest",
-"imgref": "images/bank-interest-received.png"
-},{
-"caption": "Income estimates",
-"imgref": "images/income-estimates-bank-interest.png"
-},{
-"caption": "Task list",
-"imgref": "images/task-list-bank-interest-2.png"
+"caption": "Rental details",
+"imgref": "images/rental_details.png"
 }]
 },
 {
-"title": "Enter your income - other income",
+"title": "Complete your return - let properties, >10 properties",
 "path": [{
-"caption": "Task list",
-"imgref": "images/6.register-arrival-task-list-1.png"
+"caption": "Number of properties",
+"imgref": "images/let_properties_>10.png"
 },{
-"caption": "Your income",
-"imgref": "images/select-your-income-other-income.png",
-},{
-"caption": "Other income",
-"imgref": "images/Other-income-amount.png"
-},{
-"caption": "Income estimates",
-"imgref": "images/income-estimates-other-income.png"
-},{
-"caption": "Task list",
-"imgref": "images/task-list-any-other-income-2.png"
+"caption": "Upload details",
+"imgref": "images/upload_let_property_details.png",
 }]
 },
 {
-"title": "Claim your allowances - claims charge of child allowance",
+"title": "Complete your return - let properties, <10 properties",
 "path": [{
-"caption": "Task list",
-"imgref": "images/claim-your-allowances-task-list-1.png"
+"caption": "Number of properties",
+"imgref": "images/<10_let_properties.png"
 },{
-"caption": "Charge of child",
-"imgref": "images/charge-of-child-yes.png",
+"caption": "Property location",
+"imgref": "images/let_property_location.png",
 },{
-"caption": "Mortgages",
-"imgref": "images/mortgage-no.png"
+"caption": "Find address",
+"imgref": "images/find_let_property_address.png"
 },{
-"caption": "Loans",
-"imgref": "images/loans-no.png"
+"caption": "Purchase or sale",
+"imgref": "images/let_property_sale_purchase.png"
 },{
-"caption": "Pensions",
-"imgref": "images/pensions-no.png"
+"caption": "Property details",
+"imgref": "images/let_property_details.png"
 },{
-"caption": "Task list",
-"imgref": "images/claim-your-allowances-task-list-2.png"
+"caption": "Claim expenses",
+"imgref": "images/let_property_expenses.png"
+},{
+"caption": "Direct expenses",
+"imgref": "images/let_property_direct_expenses.png"
+},{
+"caption": "Other expenses",
+"imgref": "images/let_property_other_expenses.png"
+},{
+"caption": "Claim interest relief",
+"imgref": "images/let_property_interest-relief.png"
+},{
+"caption": "Mortgage details",
+"imgref": "images/let_property_mortgage_details.png"
+},{
+"caption": "Mortgage purpose",
+"imgref": "images/let_property_loan_purpose.png"
+},{
+"caption": "Mortgage information",
+"imgref": "images/let_property_mortgage_information.png"
+},{
+"caption": "Summary",
+"imgref": "images/let_property_mortgage_summary.png"
+},{
+"caption": "Property information",
+"imgref": "images/let_property_information.png"
+},{
+"caption": "Summary",
+"imgref": "images/let_property_summary.png"
 }]
 },
 {
