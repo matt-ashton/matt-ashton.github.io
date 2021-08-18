@@ -3,7 +3,7 @@ var data = {
   "last-updated": "05 July 2021",
   "userjourneys": [
     {
-      "title": "Marital status change - marriage / civil partnership",
+      "title": "Tell us about you - marital status change, marriage / civil partnership",
       "path": [{
         "caption": "Personal details",
         "imgref": "images/Personal_Details_Marital_Status.png"
@@ -25,7 +25,7 @@ var data = {
       }]
     },
     {
-      "title": "Marital status change - separation",
+      "title": "Tell us about you - marital status change, separation",
       "path": [{
         "caption": "Personal details",
         "imgref": "images/Personal_Details_Marital_Status.png"
@@ -44,7 +44,7 @@ var data = {
       }]
     },
     {
-      "title": "Marital status change - death of spouse",
+      "title": "Tell us about you - marital status change, death of spouse",
       "path": [{
         "caption": "Personal details",
         "imgref": "images/Personal_Details_Marital_Status.png"
@@ -72,7 +72,7 @@ var data = {
       }]
     },
     {
-      "title": "Change of address",
+      "title": "Tell us about you - change of address",
       "path": [{
         "caption": "Personal details",
         "imgref": "images/personal_details_address.png"
@@ -91,7 +91,7 @@ var data = {
       }]
     },
     {
-    "title": "Claim charge of child allowance as a loan parent",
+    "title": "Tell us about you - claim charge of child allowance as a loan parent",
     "path": [{
       "caption": "Children",
       "imgref": "images/details_of_children.png"
@@ -125,7 +125,7 @@ var data = {
     }]
   },
   {
-    "title": "Claim charge of child allowance for carer support",
+    "title": "Tell us about you - claim charge of child allowance for carer support",
     "path": [{
       "caption": "Children",
       "imgref": "images/details_of_children.png"
@@ -171,7 +171,7 @@ var data = {
     }]
   },
   {
-    "title": "Transfer of personal allowance",
+    "title": "Tell us about you - transfer of personal allowance",
     "path": [{
       "caption": "Children",
       "imgref": "images/details_of_children.png"
@@ -191,48 +191,42 @@ var data = {
       "caption": "Summary",
       "imgref": "images/transfer_allowance_summary.png"
     },{
-      "caption": "Higher education",
+      "caption": "Dependent relative",
       "imgref": "images/higher_education_no.png"
     }]
   },
   {
-    "title": "Tell us about you - married person, doesn't claim family allowance",
+    "title": "Tell us about you - dependent relative allowance",
     "path": [{
-      "caption": "Task list",
-      "imgref": "images/3.task-list.png"
-    },{
-      "caption": "Name",
-      "imgref": "images/2.Enter-your-name.png"
-    },{
-      "caption": "Date of birth",
-      "imgref": "images/3.date-of-birth.png",
-    },{
-      "caption": "Nationality",
-      "imgref": "images/4.Enter-your-nationality.png"
-    },{
-      "caption": "Bailiwick address",
-      "imgref": "images/5.Bailiwick-address.png"
-    },{
-      "caption": "Email",
-      "imgref": "images/6.Email-address.png"
-    },{
-      "caption": "Phone number",
-      "imgref": "images/7.phone-number.png"
-    },{
-      "caption": "Marital status",
-      "imgref": "images/8.Marital-status.png"
-    },{
-      "caption": "Spouse details",
-      "imgref": "images/9.spouse-or-civil-partner.png"
-    },{
-      "caption": "Date of marriage",
-      "imgref": "images/10.date-of-marriage.png"
-    },{
       "caption": "Children",
-      "imgref": "images/9.children.png"
+      "imgref": "images/details_of_children.png"
     },{
-      "caption": "Task list",
-      "imgref": "images/11.Task-list-married-no-children.png"
+      "caption": "Lone parent",
+      "imgref": "images/lone_parent_no.png"
+    },{
+      "caption": "Carer support",
+      "imgref": "images/carer_support_no.png",
+    },{
+      "caption": "Transfer allowance",
+      "imgref": "images/transfer_allowance_no.png"
+    },{
+      "caption": "Dependent relative",
+      "imgref": "images/DRA_yes.png"
+    },{
+      "caption": "Child details",
+      "imgref": "images/DRA_child.png"
+    },{
+      "caption": "Education details",
+      "imgref": "images/DRA_education.png"
+    },{
+      "caption": "Financial support",
+      "imgref": "images/DRA_financial_support.png"
+    },{
+      "caption": "Other claimant",
+      "imgref": "images/DRA_other_claimant.png"
+    },{
+      "caption": "Summary",
+      "imgref": "images/DRA_summary.png"
     }]
   },
   {
