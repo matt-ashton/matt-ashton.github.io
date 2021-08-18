@@ -47,25 +47,25 @@ var data = {
       "title": "Tell us about you - change of marital status, death of spouse",
       "path": [{
         "caption": "Personal details",
-        "imgref": "images/"
+        "imgref": "images/Personal_Details_Marital_Status.png"
       },{
         "caption": "Type of change",
-        "imgref": "images/"
+        "imgref": "images/Type_of_marital_change.png"
       },{
         "caption": "Date of death",
-        "imgref": "images/"
+        "imgref": "images/Date_of_death.png"
       },{
         "caption": "Spouse details",
-        "imgref": "images/"
+        "imgref": "images/death_spouse_details.png"
       },{
         "caption": "Personal representative",
-        "imgref": "images/"
+        "imgref": "images/personal_rep_details.png"
       },{
         "caption": "Address",
-        "imgref": "images/"
+        "imgref": "images/personal_rep_address.png"
       },{
         "caption": "Summary",
-        "imgref": "images/"
+        "imgref": "images/death_summary.png"
       },{
         "caption": "Confirmation",
         "imgref": "images/"
@@ -75,25 +75,19 @@ var data = {
       "title": "Tell us about you - change of address",
       "path": [{
         "caption": "Personal details",
-        "imgref": "images/"
+        "imgref": "images/personal_details_address.png"
       },{
         "caption": "Address location",
-        "imgref": "images/"
+        "imgref": "images/address-location.png"
       },{
         "caption": "Find address",
-        "imgref": "images/"
+        "imgref": "images/find_address.png"
       },{
         "caption": "Date moved",
-        "imgref": "images/"
+        "imgref": "images/date_moved.png"
       },{
         "caption": "Summary",
-        "imgref": "images/"
-      },{
-        "caption": "Address",
-        "imgref": "images/"
-      },{
-        "caption": "Summary",
-        "imgref": "images/"
+        "imgref": "images/address_summary.png"
       }]
     },
     {
