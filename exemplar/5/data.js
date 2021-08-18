@@ -171,76 +171,28 @@ var data = {
     }]
   },
   {
-    "title": "Tell us about you - single person, claims family allowance",
+    "title": "Transfer of personal allowance",
     "path": [{
-      "caption": "Task list",
-      "imgref": "images/3.task-list.png"
-    },{
-      "caption": "Name",
-      "imgref": "images/2.Enter-your-name.png"
-    },{
-      "caption": "Date of birth",
-      "imgref": "images/3.date-of-birth.png",
-    },{
-      "caption": "Nationality",
-      "imgref": "images/4.Enter-your-nationality.png"
-    },{
-      "caption": "Bailiwick address",
-      "imgref": "images/5.Bailiwick-address.png"
-    },{
-      "caption": "Email",
-      "imgref": "images/6.Email-address.png"
-    },{
-      "caption": "Phone number",
-      "imgref": "images/7.phone-number.png"
-    },{
-      "caption": "Marital status",
-      "imgref": "images/8.Marital-status.png"
-    },{
       "caption": "Children",
-      "imgref": "images/9.children.png"
+      "imgref": "images/details_of_children.png"
     },{
-      "caption": "Child's details",
-      "imgref": "images/10.child-details.png"
+      "caption": "Lone parent",
+      "imgref": "images/lone_parent_no.png"
     },{
-      "caption": "Country of birth",
-      "imgref": "images/11.Country-of-birth.png"
+      "caption": "Carer support",
+      "imgref": "images/carer_support_no.png",
     },{
-      "caption": "Family allowance",
-      "imgref": "images/12.claim-family-allowance.png"
+      "caption": "Transfer allowance",
+      "imgref": "images/transfer_allowance.png"
     },{
-      "caption": "Identity documents",
-      "imgref": "images/13.identity-documents.png"
+      "caption": "Child details",
+      "imgref": "images/transfer_allowance_child.png"
     },{
-      "caption": "Summary of children",
-      "imgref": "images/14.Child-summary.png"
+      "caption": "Summary",
+      "imgref": "images/transfer_allowance_summary.png"
     },{
-      "caption": "Living arrangement",
-      "imgref": "images/15.Living-arrangement.png"
-    },{
-      "caption": "Partner's details",
-      "imgref": "images/16.partners-details.png"
-    },{
-      "caption": "Country of birth",
-      "imgref": "images/partner's-country-of-birth.png"
-    },{
-      "caption": "Partner's residence",
-      "imgref": "images/17.Partners-residence.png"
-    },{
-      "caption": "Claim elsewhere",
-      "imgref": "images/18.Family-allowance-elsewhere.png"
-    },{
-      "caption": "NI number",
-      "imgref": "images/National-Insurance-Number.png"
-    },{
-      "caption": "How you want it paid",
-      "imgref": "images/19.How-you-want-paying.png"
-    },{
-      "caption": "Bank details",
-      "imgref": "images/20.Enter-banks-details.png"
-    },{
-      "caption": "Task list",
-      "imgref": "images/21.task-list-single-person-family-allowance.png"
+      "caption": "Higher education",
+      "imgref": "images/higher_education_no.png"
     }]
   },
   {
