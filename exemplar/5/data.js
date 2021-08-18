@@ -125,37 +125,49 @@ var data = {
     }]
   },
   {
-    "title": "Tell us about you - single person, doesn't claim family allowance",
+    "title": "Tell us about you - charge of child allowance, carer support",
     "path": [{
-      "caption": "Task list",
-      "imgref": "images/3.task-list.png"
-    },{
-      "caption": "Name",
-      "imgref": "images/2.Enter-your-name.png"
-    },{
-      "caption": "Date of birth",
-      "imgref": "images/3.date-of-birth.png",
-    },{
-      "caption": "Nationality",
-      "imgref": "images/4.Enter-your-nationality.png"
-    },{
-      "caption": "Bailiwick address",
-      "imgref": "images/5.Bailiwick-address.png"
-    },{
-      "caption": "Email",
-      "imgref": "images/6.Email-address.png"
-    },{
-      "caption": "Phone number",
-      "imgref": "images/7.phone-number.png"
-    },{
-      "caption": "Marital status",
-      "imgref": "images/8.Marital-status.png"
-    },{
       "caption": "Children",
-      "imgref": "images/9.children.png"
+      "imgref": "images/details_of_children.png"
     },{
-      "caption": "Task list",
-      "imgref": "images/10.task-list-tell-us-about-you-end.png"
+      "caption": "Lone parent",
+      "imgref": "images/lone_parent_no.png"
+    },{
+      "caption": "Carer support",
+      "imgref": "images/carer_support_yes.png",
+    },{
+      "caption": "Claimant details",
+      "imgref": "images/claimant_details.png"
+    },{
+      "caption": "Evidence required",
+      "imgref": "images/carer_support_evidence.png"
+    },{
+      "caption": "Carer details",
+      "imgref": "images/carer_details.png"
+    },{
+      "caption": "Child details <19",
+      "imgref": "images/child_details_under_19.png"
+    },{
+      "caption": "Child summary",
+      "imgref": "images/child_summary_1.png"
+    },{
+      "caption": "Child details >19",
+      "imgref": "images/child_details_over_19.png"
+    },{
+      "caption": "Dependent relative allowance",
+      "imgref": "images/loan_parent_dra.png"
+    },{
+      "caption": "Education details",
+      "imgref": "images/lone_parent_education_details.png"
+    },{
+      "caption": "Financial support",
+      "imgref": "images/lone_parent_financial_support.png"
+    },{
+      "caption": "Other claimant",
+      "imgref": "images/lone_parent_other_claimant.png"
+    },{
+      "caption": "Summary",
+      "imgref": "images/lone_parent_summary_2.png"
     }]
   },
   {
