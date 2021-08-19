@@ -9,7 +9,7 @@ var data = {
         "imgref": "images/RS-account.png"
       },{
         "caption": "Coding notice",
-        "imgref": "images/"
+        "imgref": "images/Coding_notice_available.png"
       }]
     },
     {
