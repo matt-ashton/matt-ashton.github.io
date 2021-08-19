@@ -697,27 +697,27 @@ var data = {
 {
 "title": "Complete your return - any other information",
 "path": [{
-"caption": "Foundation details",
-"imgref": "images/foundation_details.png"
+"caption": "Coding notice",
+"imgref": "images/coding_notice_adjustment.png"
 },{
-"caption": "Upload certificate",
-"imgref": "images/upload_foundation_certificates.png",
+"caption": "Payment on account",
+"imgref": "images/payment_on_account.png",
 },{
-"caption": "Summary",
-"imgref": "images/foundation_summary.png",
+"caption": "Guernsey refund",
+"imgref": "images/refund_of_guernsey_tax.png",
+},{
+"caption": "Other information",
+"imgref": "images/other_information.png",
+},{
+"caption": "Upload files",
+"imgref": "images/upload_supporting_documents.png",
 }]
 },
 {
 "title": "Complete your return - check your progress",
 "path": [{
-"caption": "Foundation details",
-"imgref": "images/foundation_details.png"
-},{
-"caption": "Upload certificate",
-"imgref": "images/upload_foundation_certificates.png",
-},{
-"caption": "Summary",
-"imgref": "images/foundation_summary.png",
+"caption": "Check your progress",
+"imgref": "images/check_your_progress.png"
     }]
   }
 ]}
