@@ -10,7 +10,6 @@ var data = {
       },{
         "caption": "Change type",
         "imgref": "images/allowance-change-type-incorrect.png"
-        "note": "User can select more than one type of change if needed."
       },{
         "caption": "Add incorrect allowance",
         "imgref": "images/incorrect-allowance-1.png"
