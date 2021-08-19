@@ -800,7 +800,26 @@ var data = {
 }]
 },
 {
-"title": "View your calculation",
+"title": "View your calculation - calculation available",
+"path": [{
+"caption": "Coding notice",
+"imgref": "images/coding_notice_adjustment.png"
+},{
+"caption": "Payment on account",
+"imgref": "images/payment_on_account.png",
+},{
+"caption": "Guernsey refund",
+"imgref": "images/refund_of_guernsey_tax.png",
+},{
+"caption": "Other information",
+"imgref": "images/other_information.png",
+},{
+"caption": "Upload files",
+"imgref": "images/upload_supporting_documents.png",
+}]
+},
+{
+"title": "View your calculation - calculation unavailable",
 "path": [{
 "caption": "Coding notice",
 "imgref": "images/coding_notice_adjustment.png"
