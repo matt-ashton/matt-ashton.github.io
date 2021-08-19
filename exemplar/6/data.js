@@ -1,35 +1,45 @@
 var data = {
-  "service": "6. Student finance",
-  "last-updated": "[DATE HERE]",
-  "userjourneys": [            
+  "service": "3. Tell us about your allowances and reliefs",
+  "last-updated": "10 August 2021",
+  "userjourneys": [
     {
-      "title": "[TITLE OF SCENARIO 1]",
+      "title": "Tell us about an allowance or relief that is incorrect",
       "path": [{
-        "caption": "[CAPTION FOR SCREEN 1]",
-        "imgref": "images/[SCREEN 1 FILENAME]",
-        "note": [
-          "This is a note.",
-          "This is another note."
-        ]
+        "caption": "Start page",
+        "imgref": "images/allowances-&-reliefs-start-page.png"
       },{
-        "caption": "[CAPTION FOR SCREEN 2]",
-        "imgref": "images/[SCREEN 2 FILENAME]",
-        "note": "This is a note."
+        "caption": "Change type",
+        "imgref": "images/allowance-change-type-incorrect.png"
       },{
-        "caption": "[CAPTION FOR SCREEN 2]",
-        "imgref": "images/[SCREEN 2 FILENAME]"
-      }]
-    },{
-      "title": "[TITLE OF SCENARIO 2]",
-      "path": [{
-        "caption": "[CAPTION FOR SCREEN 1]",
-        "imgref": "images/[SCREEN 1 FILENAME]"
+        "caption": "Add incorrect allowance",
+        "imgref": "images/incorrect-allowance-1.png"
       },{
-        "caption": "[CAPTION FOR SCREEN 2]",
-        "imgref": "images/[SCREEN 2 FILENAME]"
+        "caption": "Allowance added",
+        "imgref": "images/incorrect-allowance-added-1.png"
       },{
-        "caption": "[CAPTION FOR SCREEN 2]",
-        "imgref": "images/[SCREEN 2 FILENAME]"
+        "caption": "Add incorrect allowance",
+        "imgref": "images/incorrect-allowance-2.png"
+      },{
+        "caption": "Allowance added",
+        "imgref": "images/Incorrect-allowances-added-2.png"
+      },{
+        "caption": "Add incorrect allowance",
+        "imgref": "images/incorrect-allowance-3.png"
+      },{
+        "caption": "Allowance added",
+        "imgref": "images/incorrect-allowance-added-3.png"
+      },{
+        "caption": "Summary",
+        "imgref": "images/allowance-incorrect-summary.png"
+      },{
+        "caption": "Declaration",
+        "imgref": "images/allowance-declaration.png"
+      },{
+        "caption": "Confirmation",
+        "imgref": "images/allowance-confirmation.png"
+      },{
+        "caption": "Feedback",
+        "imgref": "images/allowances-feedback.png"
       }]
     }
   ]}
