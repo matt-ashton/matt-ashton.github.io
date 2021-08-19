@@ -839,7 +839,7 @@ var data = {
 "imgref": "images/declaration.png",
 },{
 "caption": "Confirmation",
-"imgref": "images/",
+"imgref": "images/Confirmation_submission.png",
     }]
   }
 ]}
