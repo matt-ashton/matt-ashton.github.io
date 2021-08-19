@@ -290,7 +290,7 @@ var data = {
 }]
 },
 {
-"title": "Complete your return - self-employment, not first year of trading, not claiming annual allowances & turnover <£15,000",
+"title": "Complete your return - self-employment, not first year of trading, not claiming annual allowances & turnover less than £15,000",
 "path": [{
 "caption": "Business details",
 "imgref": "images/Business_details.png"
@@ -315,7 +315,7 @@ var data = {
 }]
 },
 {
-"title": "Complete your return - self-employment, first year of trading or claiming annual allowances or turnover >£15,000",
+"title": "Complete your return - self-employment, first year of trading or claiming annual allowances or turnover more than £15,000",
 "path": [{
   "caption": "Business details",
   "imgref": "images/Business_details.png"
