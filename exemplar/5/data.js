@@ -498,29 +498,17 @@ var data = {
 {
 "title": "Complete your return - bank interest and savings",
 "path": [{
-"caption": "Task list",
-"imgref": "images/claim-your-allowances-task-list-1.png"
+"caption": "Account details",
+"imgref": "images/bank_account_details.png"
 },{
-"caption": "Charge of child",
-"imgref": "images/charge-of-child-no.png",
+"caption": "Opened or closed",
+"imgref": "images/opened_or_closed.png",
 },{
-"caption": "Mortgages",
-"imgref": "images/mortgage-no.png"
+"caption": "Bank information",
+"imgref": "images/bank_information.png"
 },{
-"caption": "Loans",
-"imgref": "images/qualifying-loan-yes.png"
-},{
-"caption": "Loan details",
-"imgref": "images/Loan-details.png"
-},{
-"caption": "Loan summary",
-"imgref": "images/loan-summary.png"
-},{
-"caption": "Pensions",
-"imgref": "images/pensions-no.png"
-},{
-"caption": "Task list",
-"imgref": "images/claim-your-allowances-task-list-2.png"
+"caption": "Summary",
+"imgref": "images/bank_summary.png"
 }]
 },
 {
