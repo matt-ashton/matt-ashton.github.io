@@ -459,35 +459,44 @@ var data = {
 }]
 },
 {
-"title": "Claim your allowances - claims relief on mortgage interest",
+"title": "Complete your return - unlet property",
 "path": [{
-"caption": "Task list",
-"imgref": "images/claim-your-allowances-task-list-1.png"
+"caption": "Property location",
+"imgref": "images/unlet_property_location.png"
 },{
-"caption": "Charge of child",
-"imgref": "images/charge-of-child-no.png",
+"caption": "Find address",
+"imgref": "images/find_unlet_property_address.png",
 },{
-"caption": "Mortgages",
-"imgref": "images/mortgage-interest-yes.png"
+"caption": "Purchase or sale",
+"imgref": "images/unlet_purchase_or_sale.png"
+},{
+"caption": "Property details",
+"imgref": "images/unlet_property_details.png"
+},{
+"caption": "Claim interest relief",
+"imgref": "images/unlet_claim_interest_relief.png"
 },{
 "caption": "Mortgage details",
-"imgref": "images/mortgage-details.png"
+"imgref": "images/unlet_mortgage_details.png"
 },{
-"caption": "Mortgage summary",
-"imgref": "images/Mortgage-summary.png"
+"caption": "Mortgage purpose",
+"imgref": "images/unlet_mortgage_purpose.png"
 },{
-"caption": "Loans",
-"imgref": "images/loans-no.png"
+"caption": "Mortgage information",
+"imgref": "images/unlet_mortgage_information.png"
 },{
-"caption": "Pensions",
-"imgref": "images/pensions-no.png"
+"caption": "Summary",
+"imgref": "images/unlet_mortgage_summary.png"
 },{
-"caption": "Task list",
-"imgref": "images/claim-your-allowances-task-list-2.png"
+"caption": "Property information",
+"imgref": "images/unlet_property_information.png"
+},{
+"caption": "Summary",
+"imgref": "images/unlet_property_summary.png"
 }]
 },
 {
-"title": "Claim your allowances - claims relief on qualifying loan interest",
+"title": "Complete your return - bank interest and savings",
 "path": [{
 "caption": "Task list",
 "imgref": "images/claim-your-allowances-task-list-1.png"
