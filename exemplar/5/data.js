@@ -608,28 +608,13 @@ var data = {
 }]
 },
 {
-"title": "Complete your return - payments to non-residents)",
+"title": "Complete your return - payments to non-residents",
 "path": [{
-"caption": "Task list",
-"imgref": "images/task-list-class-3.png"
+"caption": "Non-resident",
+"imgref": "images/non-resident_details.png"
 },{
-"caption": "Class 3",
-"imgref": "images/class-3.png",
-},{
-"caption": "Direct debit",
-"imgref": "images/direct-debit.png",
-},{
-"caption": "Tax returns",
-"imgref": "images/income-tax-returns.png",
-},{
-"caption": "Declaration 1",
-"imgref": "images/declaration-1.png"
-},{
-"caption": "Declaration 2",
-"imgref": "images/Declaration-FA.png"
-},{
-"caption": "Confirmation",
-"imgref": "images/confirmation.png"
+"caption": "Summary",
+"imgref": "images/non_resident_summary.png",
 }]
 },
 {
