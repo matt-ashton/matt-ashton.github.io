@@ -400,7 +400,7 @@ var data = {
 }]
 },
 {
-"title": "Complete your return - let properties, >10 properties",
+"title": "Complete your return - let property, more than 10 properties",
 "path": [{
 "caption": "Number of properties",
 "imgref": "images/let_properties_>10.png"
@@ -410,7 +410,7 @@ var data = {
 }]
 },
 {
-"title": "Complete your return - let properties, <10 properties",
+"title": "Complete your return - let property, less than 10 properties",
 "path": [{
 "caption": "Number of properties",
 "imgref": "images/<10_let_properties.png"
@@ -524,7 +524,7 @@ var data = {
 }]
 },
 {
-"title": "Claim your allowances - claims relief on pension contributions",
+"title": "Complete your return - life assurance bonds",
 "path": [{
 "caption": "Task list",
 "imgref": "images/claim-your-allowances-task-list-1.png"
@@ -552,7 +552,7 @@ var data = {
 }]
 },
 {
-"title": "Review your application",
+"title": "Complete your return - dividends",
 "path": [{
 "caption": "Task list",
 "imgref": "images/claim-your-allowances-task-list-2.png"
@@ -574,7 +574,7 @@ var data = {
 }]
 },
 {
-"title": "Send your application - Not classified",
+"title": "Complete your return - company interest",
 "path": [{
 "caption": "Task list",
 "imgref": "images/task-list-not-classified.png"
@@ -593,7 +593,7 @@ var data = {
 }]
 },
 {
-"title": "Send your application - Class 1 (employed)",
+"title": "Complete your return - trusts and settlements",
 "path": [{
 "caption": "Task list",
 "imgref": "images/Task-list-class-1.png"
@@ -615,7 +615,7 @@ var data = {
 }]
 },
 {
-"title": "Send your application - Class 2 (self-employed)",
+"title": "Complete your return - foundations",
 "path": [{
 "caption": "Task list",
 "imgref": "images/tak-list-class-2.png"
@@ -640,7 +640,7 @@ var data = {
 }]
 },
 {
-"title": "Send your application - Class 3 (non-employed, under pension age)",
+"title": "Complete your return - payments to non-residents)",
 "path": [{
 "caption": "Task list",
 "imgref": "images/task-list-class-3.png"
@@ -665,7 +665,7 @@ var data = {
 }]
 },
 {
-"title": "Send your application - Class 3 (non-employed, over pension age)",
+"title": "Complete your return - payments to charities",
 "path": [{
 "caption": "Task list",
 "imgref": "images/task-list-class-3.png"
@@ -690,7 +690,7 @@ var data = {
 }]
 },
 {
-"title": "Send your application - voluntary Class 3 (non-employed)",
+"title": "Complete your return - personal pensions",
 "path": [{
 "caption": "Task list",
 "imgref": "images/task-list-voluntary-contributions.png"
