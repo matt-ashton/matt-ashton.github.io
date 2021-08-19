@@ -512,31 +512,16 @@ var data = {
 }]
 },
 {
-"title": "Complete your return - life assurance bonds",
+"title": "Complete your return - life assurance bonds, taxable",
 "path": [{
-"caption": "Task list",
-"imgref": "images/claim-your-allowances-task-list-1.png"
+"caption": "Bond details",
+"imgref": "images/Bond_details.png"
 },{
-"caption": "Charge of child",
-"imgref": "images/charge-of-child-no.png",
+"caption": "Profit or loss",
+"imgref": "images/LA_profit_or_loss.png",
 },{
-"caption": "Mortgages",
-"imgref": "images/mortgage-no.png"
-},{
-"caption": "Loans",
-"imgref": "images/loans-no.png"
-},{
-"caption": "Pensions",
-"imgref": "images/pension-contributions-yes.png"
-},{
-"caption": "Pension details",
-"imgref": "images/pensions-details.png"
-},{
-"caption": "Pension summary",
-"imgref": "images/pension-summary.png"
-},{
-"caption": "Task list",
-"imgref": "images/claim-your-allowances-task-list-2.png"
+"caption": "Summary",
+"imgref": "images/life_assurance_summary.png"
 }]
 },
 {
