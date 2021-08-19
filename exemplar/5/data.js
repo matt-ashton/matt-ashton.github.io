@@ -620,51 +620,89 @@ var data = {
 {
 "title": "Complete your return - payments to charities",
 "path": [{
-"caption": "Task list",
-"imgref": "images/task-list-class-3.png"
+"caption": "Charity details",
+"imgref": "images/Charity_details.png"
 },{
-"caption": "Class 3",
-"imgref": "images/class-3-over-pension-age.png",
-},{
-"caption": "Direct debit",
-"imgref": "images/direct-debit.png",
-},{
-"caption": "Tax returns",
-"imgref": "images/income-tax-returns.png",
-},{
-"caption": "Declaration 1",
-"imgref": "images/declaration-1.png"
-},{
-"caption": "Declaration 2",
-"imgref": "images/Declaration-FA.png"
-},{
-"caption": "Confirmation",
-"imgref": "images/confirmation.png"
+"caption": "Summary",
+"imgref": "images/charity_summary.png",
 }]
 },
 {
 "title": "Complete your return - personal pensions",
 "path": [{
-"caption": "Task list",
-"imgref": "images/task-list-voluntary-contributions.png"
+"caption": "Pension details",
+"imgref": "images/personal_pension_details.png"
 },{
-"caption": "Class 3",
-"imgref": "images/Voluntary-class-3.png",
+"caption": "Pension information",
+"imgref": "images/personal_pension_information.png",
 },{
-"caption": "Direct debit",
-"imgref": "images/direct-debit.png",
+"caption": "Summary",
+"imgref": "images/personal_pension_summary.png",
+}]
+},
+{
+"title": "Complete your return - qualifying loans",
+"path": [{
+"caption": "Foundation details",
+"imgref": "images/foundation_details.png"
 },{
-"caption": "Tax returns",
-"imgref": "images/income-tax-returns.png",
+"caption": "Upload certificate",
+"imgref": "images/upload_foundation_certificates.png",
 },{
-"caption": "Declaration 1",
-"imgref": "images/declaration-1.png"
+"caption": "Summary",
+"imgref": "images/foundation_summary.png",
+}]
+},
+{
+"title": "Complete your return - maintenance payments",
+"path": [{
+"caption": "Foundation details",
+"imgref": "images/foundation_details.png"
 },{
-"caption": "Declaration 2",
-"imgref": "images/Declaration-FA.png"
+"caption": "Upload certificate",
+"imgref": "images/upload_foundation_certificates.png",
 },{
-"caption": "Confirmation",
-"imgref": "images/confirmation.png"
+"caption": "Summary",
+"imgref": "images/foundation_summary.png",
+}]
+},
+{
+"title": "Complete your return - any other income",
+"path": [{
+"caption": "Foundation details",
+"imgref": "images/foundation_details.png"
+},{
+"caption": "Upload certificate",
+"imgref": "images/upload_foundation_certificates.png",
+},{
+"caption": "Summary",
+"imgref": "images/foundation_summary.png",
+}]
+},
+{
+"title": "Complete your return - any other information",
+"path": [{
+"caption": "Foundation details",
+"imgref": "images/foundation_details.png"
+},{
+"caption": "Upload certificate",
+"imgref": "images/upload_foundation_certificates.png",
+},{
+"caption": "Summary",
+"imgref": "images/foundation_summary.png",
+}]
+},
+{
+"title": "Complete your return - check your progress",
+"path": [{
+"caption": "Foundation details",
+"imgref": "images/foundation_details.png"
+},{
+"caption": "Upload certificate",
+"imgref": "images/upload_foundation_certificates.png",
+},{
+"caption": "Summary",
+"imgref": "images/foundation_summary.png",
     }]
   }
 ]}
