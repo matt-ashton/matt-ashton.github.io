@@ -578,23 +578,20 @@ var data = {
 {
 "title": "Complete your return - trusts and settlements",
 "path": [{
-"caption": "Task list",
-"imgref": "images/Task-list-class-1.png"
+"caption": "Settlement details",
+"imgref": "images/settlement_details.png"
 },{
-"caption": "Class 1",
-"imgref": "images/Class-1-Social-Security-contributions.png",
+"caption": "Trustee details",
+"imgref": "images/trustee_details.png",
 },{
-"caption": "Tax returns",
-"imgref": "images/income-tax-returns.png",
+"caption": "Find address",
+"imgref": "images/find_trustee_address.png",
 },{
-"caption": "Declaration 1",
-"imgref": "images/declaration-1.png"
+"caption": "Settlement income",
+"imgref": "images/settlement_income.png"
 },{
-"caption": "Declaration 2",
-"imgref": "images/Declaration-FA.png"
-},{
-"caption": "Confirmation",
-"imgref": "images/confirmation.png"
+"caption": "Summary",
+"imgref": "images/settlement_summary.png"
 }]
 },
 {
