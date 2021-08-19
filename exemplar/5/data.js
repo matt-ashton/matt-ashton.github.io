@@ -802,58 +802,31 @@ var data = {
 {
 "title": "View your calculation - calculation available",
 "path": [{
-"caption": "Coding notice",
-"imgref": "images/coding_notice_adjustment.png"
+"caption": "Introduction",
+"imgref": "images/View_calculation_introduction.png"
 },{
-"caption": "Payment on account",
-"imgref": "images/payment_on_account.png",
+"caption": "Calculation summary",
+"imgref": "images/Calculation_summary.png",
 },{
-"caption": "Guernsey refund",
-"imgref": "images/refund_of_guernsey_tax.png",
-},{
-"caption": "Other information",
-"imgref": "images/other_information.png",
-},{
-"caption": "Upload files",
-"imgref": "images/upload_supporting_documents.png",
+"caption": "Full calculation",
+"imgref": "images/Full_breakdown.png",
 }]
 },
 {
 "title": "View your calculation - calculation unavailable",
 "path": [{
-"caption": "Coding notice",
-"imgref": "images/coding_notice_adjustment.png"
+"caption": "Introduction",
+"imgref": "images/View_calculation_introduction.png"
 },{
-"caption": "Payment on account",
-"imgref": "images/payment_on_account.png",
-},{
-"caption": "Guernsey refund",
-"imgref": "images/refund_of_guernsey_tax.png",
-},{
-"caption": "Other information",
-"imgref": "images/other_information.png",
-},{
-"caption": "Upload files",
-"imgref": "images/upload_supporting_documents.png",
+"caption": "Calculation unavailable",
+"imgref": "images/View_calculation_unavailable.png",
 }]
 },
 {
 "title": "Download your return",
 "path": [{
-"caption": "Coding notice",
-"imgref": "images/coding_notice_adjustment.png"
-},{
-"caption": "Payment on account",
-"imgref": "images/payment_on_account.png",
-},{
-"caption": "Guernsey refund",
-"imgref": "images/refund_of_guernsey_tax.png",
-},{
-"caption": "Other information",
-"imgref": "images/other_information.png",
-},{
-"caption": "Upload files",
-"imgref": "images/upload_supporting_documents.png",
+"caption": "Download draft PDF",
+"imgref": "images/download_return_pdf.png"
 }]
 },
 {
