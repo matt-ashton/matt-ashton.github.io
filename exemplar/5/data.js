@@ -525,28 +525,32 @@ var data = {
 }]
 },
 {
-"title": "Complete your return - dividends",
+"title": "Complete your return - dividends, more than 10 dividends",
 "path": [{
-"caption": "Task list",
-"imgref": "images/claim-your-allowances-task-list-2.png"
+"caption": "Number of dividends",
+"imgref": "images/more_than_10_dividends.png"
 },{
-"caption": "Page 1",
-"imgref": "images/Review-application-page-1.png",
-},{
-"caption": "Page 2",
-"imgref": "images/Review-page-2.png"
-},{
-"caption": "Page 3",
-"imgref": "images/review-page-3.png"
-},{
-"caption": "Page 4",
-"imgref": "images/review-page-4.png"
-},{
-"caption": "Task list",
-"imgref": "images/claim-your-allowances-task-list-2.png"
+"caption": "Upload dividends",
+"imgref": "images/upload_dividends.png",
 }]
 },
 {
+"title": "Complete your return - dividends, less than 10 dividends",
+  "path": [{
+  "caption": "Number of dividends",
+  "imgref": "images/less_than_10_dividends.png"
+  },{
+  "caption": "Dividend details",
+  "imgref": "images/dividend_details.png",
+},{
+"caption": "Summary",
+"imgref": "images/dividend_summary.png",
+},{
+"caption": "Upload evidence",
+"imgref": "images/dividend_evidence.png",
+  }]
+  },
+  {
 "title": "Complete your return - company interest",
 "path": [{
 "caption": "Task list",
