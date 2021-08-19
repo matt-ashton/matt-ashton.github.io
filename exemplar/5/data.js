@@ -597,26 +597,14 @@ var data = {
 {
 "title": "Complete your return - foundations",
 "path": [{
-"caption": "Task list",
-"imgref": "images/tak-list-class-2.png"
+"caption": "Foundation details",
+"imgref": "images/foundation_details.png"
 },{
-"caption": "Class 2",
-"imgref": "images/class-2-social-security-contributions.png",
+"caption": "Upload certificate",
+"imgref": "images/upload_foundation_certificates.png",
 },{
-"caption": "Direct debit",
-"imgref": "images/direct-debit.png",
-},{
-"caption": "Tax returns",
-"imgref": "images/income-tax-returns.png",
-},{
-"caption": "Declaration 1",
-"imgref": "images/declaration-1.png"
-},{
-"caption": "Declaration 2",
-"imgref": "images/Declaration-FA.png"
-},{
-"caption": "Confirmation",
-"imgref": "images/confirmation.png"
+"caption": "Summary",
+"imgref": "images/foundation_summary.png",
 }]
 },
 {
