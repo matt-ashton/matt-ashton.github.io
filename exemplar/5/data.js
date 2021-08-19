@@ -21,7 +21,7 @@ var data = {
         "imgref": "images/marital_summary.png"
       },{
         "caption": "Confirmation",
-        "imgref": "images/"
+        "imgref": "images/marital_change_submitted.png"
       }]
     },
     {
@@ -40,7 +40,7 @@ var data = {
         "imgref": "images/separation_summary.png"
       },{
         "caption": "Confirmation",
-        "imgref": "images/"
+        "imgref": "images/marital_change_submitted.png"
       }]
     },
     {
@@ -68,7 +68,7 @@ var data = {
         "imgref": "images/death_summary.png"
       },{
         "caption": "Confirmation",
-        "imgref": "images/"
+        "imgref": "images/marital_change_submitted.png"
       }]
     },
     {
