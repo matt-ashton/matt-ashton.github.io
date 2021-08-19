@@ -718,6 +718,142 @@ var data = {
 "path": [{
 "caption": "Check your progress",
 "imgref": "images/check_your_progress.png"
+}]
+},
+{
+"title": "Review your return",
+"path": [{
+"caption": "Introduction",
+"imgref": "images/"
+},{
+"caption": "Personal details",
+"imgref": "images/",
+},{
+"caption": "Family details",
+"imgref": "images/",
+},{
+"caption": "Tailored return",
+"imgref": "images/",
+},{
+"caption": "Residence",
+"imgref": "images/",
+},{
+"caption": "Employment",
+"imgref": "images/",
+},{
+"caption": "Self-employment",
+"imgref": "images/",
+},{
+"caption": "Pensions",
+"imgref": "images/",
+},{
+"caption": "PPR",
+"imgref": "images/",
+},{
+"caption": "Renting rooms",
+"imgref": "images/",
+},{
+"caption": "Let property",
+"imgref": "images/",
+},{
+"caption": "Unlet property",
+"imgref": "images/",
+},{
+"caption": "Bank interest",
+"imgref": "images/",
+},{
+"caption": "Bonds",
+"imgref": "images/",
+},{
+"caption": "Dividends",
+"imgref": "images/",
+},{
+"caption": "Company interest",
+"imgref": "images/",
+},{
+"caption": "Settlements",
+"imgref": "images/",
+},{
+"caption": "Foundations",
+"imgref": "images/",
+},{
+"caption": "Non-residents",
+"imgref": "images/",
+},{
+"caption": "Charities",
+"imgref": "images/",
+},{
+"caption": "Personal pensions",
+"imgref": "images/",
+},{
+"caption": "Qualifying loans",
+"imgref": "images/",
+},{
+"caption": "Maintenance",
+"imgref": "images/",
+},{
+"caption": "Other income",
+"imgref": "images/",
+},{
+"caption": "Other information",
+"imgref": "images/",
+}]
+},
+{
+"title": "View your calculation",
+"path": [{
+"caption": "Coding notice",
+"imgref": "images/coding_notice_adjustment.png"
+},{
+"caption": "Payment on account",
+"imgref": "images/payment_on_account.png",
+},{
+"caption": "Guernsey refund",
+"imgref": "images/refund_of_guernsey_tax.png",
+},{
+"caption": "Other information",
+"imgref": "images/other_information.png",
+},{
+"caption": "Upload files",
+"imgref": "images/upload_supporting_documents.png",
+}]
+},
+{
+"title": "Download your return",
+"path": [{
+"caption": "Coding notice",
+"imgref": "images/coding_notice_adjustment.png"
+},{
+"caption": "Payment on account",
+"imgref": "images/payment_on_account.png",
+},{
+"caption": "Guernsey refund",
+"imgref": "images/refund_of_guernsey_tax.png",
+},{
+"caption": "Other information",
+"imgref": "images/other_information.png",
+},{
+"caption": "Upload files",
+"imgref": "images/upload_supporting_documents.png",
+}]
+},
+{
+"title": "Submit your return",
+"path": [{
+"caption": "Coding notice",
+"imgref": "images/coding_notice_adjustment.png"
+},{
+"caption": "Payment on account",
+"imgref": "images/payment_on_account.png",
+},{
+"caption": "Guernsey refund",
+"imgref": "images/refund_of_guernsey_tax.png",
+},{
+"caption": "Other information",
+"imgref": "images/other_information.png",
+},{
+"caption": "Upload files",
+"imgref": "images/upload_supporting_documents.png",
     }]
   }
 ]}
