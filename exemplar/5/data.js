@@ -18,7 +18,7 @@ var data = {
         "imgref": "images/marriage_spouse_details.png"
       },{
         "caption": "Summary",
-        "imgref": "images/"
+        "imgref": "images/marital_summary.png"
       },{
         "caption": "Confirmation",
         "imgref": "images/"
