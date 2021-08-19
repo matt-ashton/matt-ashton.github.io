@@ -751,52 +751,52 @@ var data = {
 "imgref": "images/Review_PPR.png",
 },{
 "caption": "Renting rooms",
-"imgref": "images/",
+"imgref": "images/Review_renting_rooms.png",
 },{
 "caption": "Let property",
-"imgref": "images/",
+"imgref": "images/Review_let_property.png",
 },{
 "caption": "Unlet property",
-"imgref": "images/",
+"imgref": "images/Review_unlet_property.png",
 },{
 "caption": "Bank interest",
-"imgref": "images/",
+"imgref": "images/Review_bank_interest.png",
 },{
 "caption": "Bonds",
-"imgref": "images/",
+"imgref": "images/Review_bonds.png",
 },{
 "caption": "Dividends",
-"imgref": "images/",
+"imgref": "images/Review_dividends.png",
 },{
 "caption": "Company interest",
-"imgref": "images/",
+"imgref": "images/review_companies.png",
 },{
 "caption": "Settlements",
-"imgref": "images/",
+"imgref": "images/Review_settlements.png",
 },{
 "caption": "Foundations",
-"imgref": "images/",
+"imgref": "images/Review_foundations.png",
 },{
 "caption": "Non-residents",
-"imgref": "images/",
+"imgref": "images/Review_non-resident.png",
 },{
 "caption": "Charities",
-"imgref": "images/",
+"imgref": "images/Review_charities.png",
 },{
 "caption": "Personal pensions",
-"imgref": "images/",
+"imgref": "images/review_personal_pension.png",
 },{
 "caption": "Qualifying loans",
-"imgref": "images/",
+"imgref": "images/review_qualifying_loans.png",
 },{
 "caption": "Maintenance",
-"imgref": "images/",
+"imgref": "images/review_maintenance.png",
 },{
 "caption": "Other income",
-"imgref": "images/",
+"imgref": "images/Review_other_income.png",
 },{
 "caption": "Other information",
-"imgref": "images/",
+"imgref": "images/Review_other_information.png",
 }]
 },
 {
