@@ -553,20 +553,26 @@ var data = {
   {
 "title": "Complete your return - company interest",
 "path": [{
-"caption": "Task list",
-"imgref": "images/task-list-not-classified.png"
+"caption": "Company details",
+"imgref": "images/company_details.png"
 },{
-"caption": "Tax returns",
-"imgref": "images/income-tax-returns.png",
+"caption": "Beneficial member",
+"imgref": "images/beneficial_member.png",
 },{
-"caption": "Declaration 1",
-"imgref": "images/declaration-1.png"
+"caption": "Purchase or sale",
+"imgref": "images/Purchase or sale.png"
 },{
-"caption": "Declaration 2",
-"imgref": "images/Declaration-FA.png"
+"caption": "Loans & distributions",
+"imgref": "images/loans_and_distributions.png"
 },{
-"caption": "Confirmation",
-"imgref": "images/confirmation.png"
+"caption": "Upload certificate",
+"imgref": "images/upload_tax_certificate.png"
+},{
+"caption": "Company information",
+"imgref": "images/company_information.png"
+},{
+"caption": "Summary",
+"imgref": "images/company_summary.png"
 }]
 },
 {
