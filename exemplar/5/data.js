@@ -643,40 +643,55 @@ var data = {
 {
 "title": "Complete your return - qualifying loans",
 "path": [{
-"caption": "Foundation details",
-"imgref": "images/foundation_details.png"
-},{
-"caption": "Upload certificate",
-"imgref": "images/upload_foundation_certificates.png",
+"caption": "Loan details",
+"imgref": "images/qualifying_loan_details.png"
 },{
 "caption": "Summary",
-"imgref": "images/foundation_summary.png",
+"imgref": "images/qualifying_loan_summary.png",
 }]
 },
 {
 "title": "Complete your return - maintenance payments",
 "path": [{
-"caption": "Foundation details",
-"imgref": "images/foundation_details.png"
-},{
-"caption": "Upload certificate",
-"imgref": "images/upload_foundation_certificates.png",
+"caption": "Maintenance details",
+"imgref": "images/maintenance_details.png"
 },{
 "caption": "Summary",
-"imgref": "images/foundation_summary.png",
+"imgref": "images/maintenance_summary.png",
 }]
 },
 {
 "title": "Complete your return - any other income",
 "path": [{
-"caption": "Foundation details",
-"imgref": "images/foundation_details.png"
+"caption": "Other income",
+"imgref": "images/Any_other_income.png"
 },{
-"caption": "Upload certificate",
-"imgref": "images/upload_foundation_certificates.png",
+"caption": "Select income",
+"imgref": "images/select_income.png",
 },{
-"caption": "Summary",
-"imgref": "images/foundation_summary.png",
+"caption": "Loan interest",
+"imgref": "images/loan_interest_details.png",
+},{
+"caption": "Testamentary income",
+"imgref": "images/testamentary_income.png",
+},{
+"caption": "Maintenance",
+"imgref": "images/Maintenance.png",
+},{
+"caption": "Trust income",
+"imgref": "images/trust_income.png",
+},{
+"caption": "PPI interest",
+"imgref": "images/PPI_interest.png",
+},{
+"caption": "Other income",
+"imgref": "images/Other_income_details.png",
+},{
+"caption": "Tax refunds",
+"imgref": "images/tax-refunds.png",
+},{
+"caption": "Prior year income",
+"imgref": "images/income_from_previous_years.png",
 }]
 },
 {
