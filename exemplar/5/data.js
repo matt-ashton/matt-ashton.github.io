@@ -832,20 +832,14 @@ var data = {
 {
 "title": "Submit your return",
 "path": [{
-"caption": "Coding notice",
-"imgref": "images/coding_notice_adjustment.png"
+"caption": "Privacy notice",
+"imgref": "images/privacy_notice.png"
 },{
-"caption": "Payment on account",
-"imgref": "images/payment_on_account.png",
+"caption": "Declaration",
+"imgref": "images/declaration.png",
 },{
-"caption": "Guernsey refund",
-"imgref": "images/refund_of_guernsey_tax.png",
-},{
-"caption": "Other information",
-"imgref": "images/other_information.png",
-},{
-"caption": "Upload files",
-"imgref": "images/upload_supporting_documents.png",
+"caption": "Confirmation",
+"imgref": "images/",
     }]
   }
 ]}
