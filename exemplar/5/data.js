@@ -724,31 +724,31 @@ var data = {
 "title": "Review your return",
 "path": [{
 "caption": "Introduction",
-"imgref": "images/"
+"imgref": "images/Review_introduction.png"
 },{
 "caption": "Personal details",
-"imgref": "images/",
+"imgref": "images/Review_personal_details.png",
 },{
 "caption": "Family details",
-"imgref": "images/",
+"imgref": "images/review_family_details.png",
 },{
 "caption": "Tailored return",
-"imgref": "images/",
+"imgref": "images/review_tailored_return.png",
 },{
 "caption": "Residence",
-"imgref": "images/",
+"imgref": "images/Review_residence.png",
 },{
 "caption": "Employment",
-"imgref": "images/",
+"imgref": "images/Review_employment.png",
 },{
 "caption": "Self-employment",
-"imgref": "images/",
+"imgref": "images/review_self-employment.png",
 },{
 "caption": "Pensions",
-"imgref": "images/",
+"imgref": "images/review_pension_details.png",
 },{
 "caption": "PPR",
-"imgref": "images/",
+"imgref": "images/Review_PPR.png",
 },{
 "caption": "Renting rooms",
 "imgref": "images/",
