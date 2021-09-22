@@ -162,6 +162,27 @@ a{
     padding-bottom: 4px;
     padding-left: 8px;
 }
+.govuk-tag--red {
+	display: inline-block;
+	outline: 2px solid transparent;
+	outline-offset: -2px;
+	color: #942514;
+	background-color: #f6d7d2;
+	letter-spacing: 1px;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-family: "GDS Transport",arial,sans-serif;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	font-weight: 700;
+	font-size: 12px;
+	font-size: .875rem;
+	line-height: 1;
+	padding-top: 5px;
+	padding-right: 8px;
+	padding-bottom: 4px;
+	padding-left: 8px;
+}
 .govuk-caption-xl {
     font-family: "GDS Transport",arial,sans-serif;
     -webkit-font-smoothing: antialiased;
