@@ -131,9 +131,6 @@ var data = {
       "caption": "Sign in",
       "imgref": "images/3.sign-in.png",
     },{
-      "caption": "Check email",
-      "imgref": "images/check_email.png"
-    },{
       "caption": "Link sent",
       "imgref": "images/link_sent.png"
     },{
