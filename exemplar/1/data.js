@@ -3,7 +3,7 @@ var data = {
   "last-updated": "05 July 2021",
   "userjourneys": [
     {
-      "title": "Start a new application - eligible, sign up",
+      "title": "Start a new application - sign up, active link",
       "path": [{
         "caption": "Start page",
         "imgref": "images/1.start-page.png"
@@ -37,7 +37,41 @@ var data = {
       }]
     },
     {
-      "title": "Start a new application - not eligible, returning",
+      "title": "Start a new application - sign up, inactive link",
+      "path": [{
+        "caption": "Start page",
+        "imgref": "images/1.start-page.png"
+      },{
+        "caption": "Start new application",
+        "imgref": "images/2.Start-new-application.png"
+      },{
+        "caption": "Returning",
+        "imgref": "images/returning-no.png"
+      },{
+        "caption": "Enter email",
+        "imgref": "images/enter_email.png"
+      },{
+        "caption": "Check email",
+        "imgref": "images/check_email.png"
+      },{
+        "caption": "Link sent",
+        "imgref": "images/link_sent.png"
+      },{
+        "caption": "Link resent",
+        "imgref": "images/link_resent.png"
+      },{
+        "caption": "Sign up email",
+        "imgref": "images/Sign_up_email.png"
+      },{
+        "caption": "Check link active",
+        "imgref": "images/Check_link_active.png"
+      },{
+        "caption": "Link already used",
+        "imgref": "images/link_already_used.png"
+      }]
+    },
+    {
+      "title": "Start a new application - not eligible, returning individual",
       "path": [{
         "caption": "Start page",
         "imgref": "images/1.start-page.png"
@@ -56,7 +90,7 @@ var data = {
       }]
     },
     {
-      "title": "Start a new application - not eligible, student",
+      "title": "Start a new application - not eligible, returning student",
       "path": [{
         "caption": "Start page",
         "imgref": "images/1.start-page.png"
