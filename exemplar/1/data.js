@@ -3,7 +3,7 @@ var data = {
   "last-updated": "05 July 2021",
   "userjourneys": [
     {
-      "title": "Start a new application - eligible",
+      "title": "Start a new application - eligible, sign up",
       "path": [{
         "caption": "Start page",
         "imgref": "images/1.start-page.png"
@@ -13,6 +13,24 @@ var data = {
       },{
         "caption": "Returning",
         "imgref": "images/returning-no.png"
+      },{
+        "caption": "Enter email",
+        "imgref": "images/enter_email.png"
+      },{
+        "caption": "Check email",
+        "imgref": "images/check_email.png"
+      },{
+        "caption": "Link sent",
+        "imgref": "images/link_sent.png"
+      },{
+        "caption": "Link resent",
+        "imgref": "images/link_resent.png"
+      },{
+        "caption": "Sign up email",
+        "imgref": "images/Sign_up_email.png"
+      },{
+        "caption": "Check link active",
+        "imgref": "images/Check_link_active.png"
       },{
         "caption": "Task list",
         "imgref": "images/3.task-list.png"
