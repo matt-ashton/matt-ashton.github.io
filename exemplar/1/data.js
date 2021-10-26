@@ -114,19 +114,13 @@ var data = {
       "caption": "Save and come back",
       "imgref": "images/3.task-list.png"
     },{
-      "caption": "Enter your email",
-      "imgref": "images/2.Enter-email-address.png",
+      "caption": "Application saved",
+      "imgref": "images/application_saved.png",
       "note": "REG-CBL-01"
-    },{
-      "caption": "Check your email",
-      "imgref": "images/3.Check-your-email.png"
-    },{
-      "caption": "Link sent",
-      "imgref": "images/4.Link-sent.png"
     }]
   },
   {
-    "title": "Go back to your application",
+    "title": "Go back to your application - sign in, active link",
     "path": [{
       "caption": "Start page",
       "imgref": "images/1.start-page.png"
@@ -137,14 +131,57 @@ var data = {
       "caption": "Sign in",
       "imgref": "images/3.sign-in.png",
     },{
-      "caption": "Link sent",
-      "imgref": "images/link-sent-v0.3.png"
+      "caption": "Check email",
+      "imgref": "images/check_email.png"
     },{
-      "caption": "Email resent",
-      "imgref": "images/5.email-resent.png"
+      "caption": "Link sent",
+      "imgref": "images/link_sent.png"
+    },{
+      "caption": "Link resent",
+      "imgref": "images/link_resent.png"
+    },{
+      "caption": "Sign in email",
+      "imgref": "images/Sign_up_email.png"
+    },{
+      "caption": "Check link active",
+      "imgref": "images/Check_link_active.png"
+    },{
+      "caption": "Task list",
+      "imgref": "images/3.task-list.png"
     }]
-  },
-  {
+    },
+    {
+      "title": "Go back to your application - sign in, inactive link",
+      "path": [{
+        "caption": "Start page",
+        "imgref": "images/1.start-page.png"
+      },{
+        "caption": "Go back to application",
+        "imgref": "images/2.Go-back-to-application.png"
+      },{
+        "caption": "Sign in",
+        "imgref": "images/3.sign-in.png",
+      },{
+        "caption": "Check email",
+        "imgref": "images/check_email.png"
+      },{
+        "caption": "Link sent",
+        "imgref": "images/link_sent.png"
+      },{
+        "caption": "Link resent",
+        "imgref": "images/link_resent.png"
+      },{
+        "caption": "Sign in email",
+        "imgref": "images/Sign_up_email.png"
+      },{
+        "caption": "Check link active",
+        "imgref": "images/Check_link_active.png"
+      },{
+        "caption": "Link already used",
+        "imgref": "images/link_already_used.png"
+      }]
+      },
+      {
     "title": "Tell us about you - single person, doesn't claim family allowance",
     "path": [{
       "caption": "Task list",
