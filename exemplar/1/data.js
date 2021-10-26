@@ -187,11 +187,20 @@ var data = {
       "caption": "Name",
       "imgref": "images/2.Enter-your-name.png"
     },{
-      "caption": "Date of birth",
-      "imgref": "images/3.date-of-birth.png",
+      "caption": "Any other names",
+      "imgref": "images/Any_other_names.png"
+    },{
+      "caption": "Previous name",
+      "imgref": "images/previous_name.png"
+    },{
+      "caption": "Gender",
+      "imgref": "images/gender.png"
     },{
       "caption": "Nationality",
       "imgref": "images/4.Enter-your-nationality.png"
+    },{
+      "caption": "Date of birth",
+      "imgref": "images/3.date-of-birth.png",
     },{
       "caption": "Bailiwick address",
       "imgref": "images/5.Bailiwick-address.png"
@@ -206,7 +215,7 @@ var data = {
       "imgref": "images/8.Marital-status.png"
     },{
       "caption": "Children",
-      "imgref": "images/9.children.png"
+      "imgref": "images/children-no.png"
     },{
       "caption": "Task list",
       "imgref": "images/10.task-list-tell-us-about-you-end.png"
