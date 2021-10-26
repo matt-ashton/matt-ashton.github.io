@@ -11,6 +11,9 @@ var data = {
         "caption": "Start new application",
         "imgref": "images/2.Start-new-application.png"
       },{
+        "caption": "Returning",
+        "imgref": "images/returning-no.png"
+      },{
         "caption": "Task list",
         "imgref": "images/3.task-list.png"
       }]
