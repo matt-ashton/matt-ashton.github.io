@@ -212,7 +212,7 @@ var data = {
       "imgref": "images/7.phone-number.png"
     },{
       "caption": "Marital status",
-      "imgref": "images/8.Marital-status.png"
+      "imgref": "images/marital_status_not_married.png"
     },{
       "caption": "Children",
       "imgref": "images/children-no.png"
@@ -230,11 +230,20 @@ var data = {
       "caption": "Name",
       "imgref": "images/2.Enter-your-name.png"
     },{
-      "caption": "Date of birth",
-      "imgref": "images/3.date-of-birth.png",
+      "caption": "Any other names",
+      "imgref": "images/Any_other_names.png"
+    },{
+      "caption": "Previous name",
+      "imgref": "images/previous_name.png"
+    },{
+      "caption": "Gender",
+      "imgref": "images/gender.png"
     },{
       "caption": "Nationality",
       "imgref": "images/4.Enter-your-nationality.png"
+    },{
+      "caption": "Date of birth",
+      "imgref": "images/3.date-of-birth.png",
     },{
       "caption": "Bailiwick address",
       "imgref": "images/5.Bailiwick-address.png"
@@ -246,16 +255,28 @@ var data = {
       "imgref": "images/7.phone-number.png"
     },{
       "caption": "Marital status",
-      "imgref": "images/8.Marital-status.png"
+      "imgref": "images/marital_status_not_married.png"
     },{
       "caption": "Children",
-      "imgref": "images/9.children.png"
+      "imgref": "images/Children_yes.png"
     },{
       "caption": "Child's details",
       "imgref": "images/10.child-details.png"
     },{
+      "caption": "Any other names",
+      "imgref": "images/childs-other-names.png"
+    },{
+      "caption": "Previous name",
+      "imgref": "images/child-previous-name.png"
+    },{
       "caption": "Country of birth",
       "imgref": "images/11.Country-of-birth.png"
+    },{
+      "caption": "Date of arrival",
+      "imgref": "images/child-date-of-arrival.png"
+    },{
+      "caption": "Education details",
+      "imgref": "images/Childs-education-details.png"
     },{
       "caption": "Family allowance",
       "imgref": "images/12.claim-family-allowance.png"
