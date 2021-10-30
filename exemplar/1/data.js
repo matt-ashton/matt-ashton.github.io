@@ -626,35 +626,10 @@ var data = {
 }]
 },
 {
-"title": "Claim your allowances - claims charge of child allowance",
-"path": [{
-"caption": "Task list",
-"imgref": "images/claim-your-allowances-task-list-1.png"
-},{
-"caption": "Charge of child",
-"imgref": "images/charge-of-child-yes.png",
-},{
-"caption": "Mortgages",
-"imgref": "images/mortgage-no.png"
-},{
-"caption": "Loans",
-"imgref": "images/loans-no.png"
-},{
-"caption": "Pensions",
-"imgref": "images/pensions-no.png"
-},{
-"caption": "Task list",
-"imgref": "images/claim-your-allowances-task-list-2.png"
-}]
-},
-{
 "title": "Claim your allowances - claims relief on mortgage interest",
 "path": [{
 "caption": "Task list",
 "imgref": "images/claim-your-allowances-task-list-1.png"
-},{
-"caption": "Charge of child",
-"imgref": "images/charge-of-child-no.png",
 },{
 "caption": "Mortgages",
 "imgref": "images/mortgage-interest-yes.png"
@@ -681,9 +656,6 @@ var data = {
 "caption": "Task list",
 "imgref": "images/claim-your-allowances-task-list-1.png"
 },{
-"caption": "Charge of child",
-"imgref": "images/charge-of-child-no.png",
-},{
 "caption": "Mortgages",
 "imgref": "images/mortgage-no.png"
 },{
@@ -708,9 +680,6 @@ var data = {
 "path": [{
 "caption": "Task list",
 "imgref": "images/claim-your-allowances-task-list-1.png"
-},{
-"caption": "Charge of child",
-"imgref": "images/charge-of-child-no.png",
 },{
 "caption": "Mortgages",
 "imgref": "images/mortgage-no.png"
