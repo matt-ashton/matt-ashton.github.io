@@ -179,7 +179,7 @@ var data = {
       }]
       },
       {
-    "title": "Tell us about you - single person, doesn't claim family allowance",
+    "title": "Tell us about you - single person, no children",
     "path": [{
       "caption": "Task list",
       "imgref": "images/3.task-list.png"
@@ -222,7 +222,7 @@ var data = {
     }]
   },
   {
-    "title": "Tell us about you - single person, claims family allowance",
+    "title": "Tell us about you - single person, has children",
     "path": [{
       "caption": "Task list",
       "imgref": "images/3.task-list.png"
@@ -272,51 +272,24 @@ var data = {
       "caption": "Country of birth",
       "imgref": "images/11.Country-of-birth.png"
     },{
+      "caption": "Identity documents",
+      "imgref": "images/13.identity-documents.png"
+    },{
       "caption": "Date of arrival",
       "imgref": "images/child-date-of-arrival.png"
     },{
       "caption": "Education details",
       "imgref": "images/Childs-education-details.png"
     },{
-      "caption": "Family allowance",
-      "imgref": "images/12.claim-family-allowance.png"
-    },{
-      "caption": "Identity documents",
-      "imgref": "images/13.identity-documents.png"
-    },{
       "caption": "Summary of children",
       "imgref": "images/14.Child-summary.png"
-    },{
-      "caption": "Living arrangement",
-      "imgref": "images/15.Living-arrangement.png"
-    },{
-      "caption": "Partner's details",
-      "imgref": "images/16.partners-details.png"
-    },{
-      "caption": "Country of birth",
-      "imgref": "images/partner's-country-of-birth.png"
-    },{
-      "caption": "Partner's residence",
-      "imgref": "images/17.Partners-residence.png"
-    },{
-      "caption": "Claim elsewhere",
-      "imgref": "images/18.Family-allowance-elsewhere.png"
-    },{
-      "caption": "NI number",
-      "imgref": "images/National-Insurance-Number.png"
-    },{
-      "caption": "How you want it paid",
-      "imgref": "images/19.How-you-want-paying.png"
-    },{
-      "caption": "Bank details",
-      "imgref": "images/20.Enter-banks-details.png"
     },{
       "caption": "Task list",
       "imgref": "images/21.task-list-single-person-family-allowance.png"
     }]
   },
   {
-    "title": "Tell us about you - married person, doesn't claim family allowance",
+    "title": "Tell us about you - married person, no children",
     "path": [{
       "caption": "Task list",
       "imgref": "images/3.task-list.png"
@@ -356,7 +329,7 @@ var data = {
     }]
   },
   {
-    "title": "Tell us about you - married person, claims family allowance",
+    "title": "Tell us about you - married person, has children",
     "path": [{
       "caption": "Task list",
       "imgref": "images/3.task-list.png"
@@ -394,35 +367,26 @@ var data = {
       "caption": "Child's details",
       "imgref": "images/10.child-details.png"
     },{
+      "caption": "Any other names",
+      "imgref": "images/childs-other-names.png"
+    },{
+      "caption": "Previous name",
+      "imgref": "images/child-previous-name.png"
+    },{
       "caption": "Country of birth",
       "imgref": "images/11.Country-of-birth.png"
-    },{
-      "caption": "Family allowance",
-      "imgref": "images/12.claim-family-allowance.png"
     },{
       "caption": "Identity documents",
       "imgref": "images/13.identity-documents.png"
     },{
+      "caption": "Date of arrival",
+      "imgref": "images/child-date-of-arrival.png"
+    },{
+      "caption": "Education details",
+      "imgref": "images/Childs-education-details.png"
+    },{
       "caption": "Summary of children",
       "imgref": "images/14.Child-summary.png"
-    },{
-      "caption": "Country of birth",
-      "imgref": "images/spouse-country-of-birth.png"
-    },{
-      "caption": "Spouse residence",
-      "imgref": "images/17.spouse-or-civil-partner-residence.png"
-    },{
-      "caption": "Claim elsewhere",
-      "imgref": "images/18.Family-allowance-elsewhere.png"
-    },{
-      "caption": "NI number",
-      "imgref": "images/National-Insurance-Number.png"
-    },{
-      "caption": "How you want it paid",
-      "imgref": "images/19.How-you-want-paying.png"
-    },{
-      "caption": "Bank details",
-      "imgref": "images/20.Enter-banks-details.png"
     },{
       "caption": "Task list",
       "imgref": "images/Tasklist - Married, claiming family allowance.png"
