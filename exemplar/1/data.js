@@ -413,12 +413,15 @@ var data = {
     "caption": "Social Security",
     "imgref": "images/5.social-security.png"
   },{
+    "caption": "Overseas SIN",
+    "imgref": "images/overseas-SIN.png"
+  },{
     "caption": "Task list",
     "imgref": "images/6.register-arrival-task-list-1.png"
   }]
 },
 {
-"title": "Enter your income - employment, shareholder",
+"title": "Enter your income - employment, Guernsey employer",
 "path": [{
 "caption": "Task list",
 "imgref": "images/6.register-arrival-task-list-1.png"
@@ -428,9 +431,6 @@ var data = {
 },{
 "caption": "Working arrangement",
 "imgref": "images/3.working-arrangement.png"
-},{
-"caption": "Shareholding",
-"imgref": "images/shareholding.png"
 },{
 "caption": "Employment details",
 "imgref": "images/4.employment-details.png"
@@ -452,6 +452,71 @@ var data = {
 }]
 },
 {
+  "title": "Enter your income - employment, overseas employer",
+  "path": [{
+  "caption": "Task list",
+  "imgref": "images/6.register-arrival-task-list-1.png"
+  },{
+  "caption": "Your income",
+  "imgref": "images/2.Your-income-employment.png",
+  },{
+  "caption": "Working arrangement",
+  "imgref": "images/3.working-arrangement.png"
+  },{
+  "caption": "Employment details",
+  "imgref": "images/4.employment-details.png"
+  },{
+  "caption": "Start date",
+  "imgref": "images/5.Start-date.png"
+  },{
+  "caption": "Temporary",
+  "imgref": "images/temporary-employment.png"
+  },{
+  "caption": "Summary",
+  "imgref": "images/7.employment-summary.png"
+  },{
+  "caption": "Income estimates",
+  "imgref": "images/8.income-estimates-employed.png"
+  },{
+  "caption": "Task list",
+  "imgref": "images/task-list-employed-2.png"
+  }]
+  },
+  {
+    "title": "Enter your income - employment, shareholder or beneficial member",
+    "path": [{
+    "caption": "Task list",
+    "imgref": "images/6.register-arrival-task-list-1.png"
+    },{
+    "caption": "Your income",
+    "imgref": "images/2.Your-income-employment.png",
+    },{
+    "caption": "Working arrangement",
+    "imgref": "images/3.working-arrangement.png"
+    },{
+    "caption": "Shareholding",
+    "imgref": "images/shareholding.png"
+    },{
+    "caption": "Employment details",
+    "imgref": "images/4.employment-details.png"
+    },{
+    "caption": "Start date",
+    "imgref": "images/5.Start-date.png"
+    },{
+    "caption": "Temporary",
+    "imgref": "images/temporary-employment.png"
+    },{
+    "caption": "Summary",
+    "imgref": "images/7.employment-summary.png"
+    },{
+    "caption": "Income estimates",
+    "imgref": "images/8.income-estimates-employed.png"
+    },{
+    "caption": "Task list",
+    "imgref": "images/task-list-employed-2.png"
+    }]
+    },
+    {
 "title": "Enter your income - self-employed, sole trader",
 "path": [{
 "caption": "Task list",
