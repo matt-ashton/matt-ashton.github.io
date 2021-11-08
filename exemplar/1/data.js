@@ -412,7 +412,7 @@ var data = {
 "imgref": "images/2.Your-income-employment.png",
 },{
 "caption": "Working arrangement",
-"imgref": "images/3.working-arrangement.png"
+"imgref": "images/employment-guernsey-employer.png"
 },{
 "caption": "Employment details",
 "imgref": "images/4.employment-details.png"
@@ -443,7 +443,7 @@ var data = {
   "imgref": "images/2.Your-income-employment.png",
   },{
   "caption": "Working arrangement",
-  "imgref": "images/3.working-arrangement.png"
+  "imgref": "images/employment-overseas-employment.png"
   },{
   "caption": "Employment details",
   "imgref": "images/4.employment-details.png"
@@ -474,7 +474,7 @@ var data = {
     "imgref": "images/2.Your-income-employment.png",
     },{
     "caption": "Working arrangement",
-    "imgref": "images/3.working-arrangement.png"
+    "imgref": "images/employment-benefical-member-shareholder.png"
     },{
     "caption": "Shareholding",
     "imgref": "images/shareholding.png"
