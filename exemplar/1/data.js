@@ -258,7 +258,7 @@ var data = {
       "imgref": "images/marital_status_not_married.png"
     },{
       "caption": "Children",
-      "imgref": "images/Children_yes.png"
+      "imgref": "images/Children-yes.png"
     },{
       "caption": "Child's details",
       "imgref": "images/10.child-details.png"
@@ -269,17 +269,8 @@ var data = {
       "caption": "Previous name",
       "imgref": "images/child-previous-name.png"
     },{
-      "caption": "Country of birth",
-      "imgref": "images/11.Country-of-birth.png"
-    },{
-      "caption": "Identity documents",
-      "imgref": "images/13.identity-documents.png"
-    },{
       "caption": "Date of arrival",
       "imgref": "images/child-date-of-arrival.png"
-    },{
-      "caption": "Education details",
-      "imgref": "images/Childs-education-details.png"
     },{
       "caption": "Summary of children",
       "imgref": "images/14.Child-summary.png"
