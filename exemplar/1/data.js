@@ -591,7 +591,7 @@ var data = {
   "imgref": "images/3.select-income-self-employed.png",
   },{
   "caption": "Business type",
-  "imgref": "images/new-business-partnership.png"
+  "imgref": "images/existing-business-partnership.png"
   },{
   "caption": "Business details",
   "imgref": "images/5.business-details.png"
