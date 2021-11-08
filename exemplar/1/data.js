@@ -605,11 +605,8 @@ var data = {
   "caption": "Address",
   "imgref": "images/8.Enter-business-address.png"
   },{
-  "caption": "Business partner",
-  "imgref": "images/self-employed-partners.png"
-  },{
   "caption": "Accounts",
-  "imgref": "images/9.accounting-period.png"
+  "imgref": "images/accounting-period-existing-partnership.png"
   },{
   "caption": "Profit or loss",
   "imgref": "images/10.profit-or-loss-estimate.png"
