@@ -713,6 +713,25 @@ var data = {
 }]
 },
 {
+  "title": "Enter your income - I don't have any income",
+  "path": [{
+  "caption": "Task list",
+  "imgref": "images/6.register-arrival-task-list-1.png"
+  },{
+  "caption": "Your income",
+  "imgref": "images/I-don't-have-any-income.png",
+  },{
+  "caption": "Living expenses",
+  "imgref": "images/how-fund-living.png"
+  },{
+  "caption": "Income estimates",
+  "imgref": "images/no-income-summary.png"
+  },{
+  "caption": "Task list",
+  "imgref": "images/task-list-any-other-income-2.png"
+  }]
+  },
+  {
 "title": "Claim your allowances - claims relief on mortgage interest",
 "path": [{
 "caption": "Task list",
