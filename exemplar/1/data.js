@@ -403,7 +403,7 @@ var data = {
   }]
 },
 {
-"title": "Enter your income - employment, Guernsey employer",
+"title": "Enter your income - employment, local employer",
 "path": [{
 "caption": "Task list",
 "imgref": "images/6.register-arrival-task-list-1.png"
@@ -732,7 +732,7 @@ var data = {
   }]
   },
   {
-"title": "Claim your allowances - claims relief on mortgage interest",
+"title": "Claim your allowances - mortgage interest relief",
 "path": [{
 "caption": "Task list",
 "imgref": "images/claim-your-allowances-task-list-1.png"
@@ -757,7 +757,7 @@ var data = {
 }]
 },
 {
-"title": "Claim your allowances - claims relief on qualifying loan interest",
+"title": "Claim your allowances - loan interest relief",
 "path": [{
 "caption": "Task list",
 "imgref": "images/claim-your-allowances-task-list-1.png"
@@ -782,7 +782,7 @@ var data = {
 }]
 },
 {
-"title": "Claim your allowances - claims relief on pension contributions",
+"title": "Claim your allowances - relief on pension contributions",
 "path": [{
 "caption": "Task list",
 "imgref": "images/claim-your-allowances-task-list-1.png"
