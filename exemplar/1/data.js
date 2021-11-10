@@ -309,7 +309,7 @@ var data = {
     }]
   },
   {
-  "title": "Register your arrival",
+  "title": "Register your arrival - enter your arrival details",
   "path": [{
     "caption": "Task list",
     "imgref": "images/10.task-list-tell-us-about-you-end.png"
@@ -331,6 +331,9 @@ var data = {
   },{
     "caption": "Overseas SIN",
     "imgref": "images/overseas-SIN.png"
+  },{
+    "caption": "Check your answers",
+    "imgref": "images/check-your-answers-arrival-details.png"
   },{
     "caption": "Task list",
     "imgref": "images/6.register-arrival-task-list-1.png"
