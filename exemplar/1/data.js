@@ -179,7 +179,7 @@ var data = {
       }]
       },
       {
-    "title": "Tell us about you - personal details",
+    "title": "Tell us about you - enter your personal details",
     "path": [{
       "caption": "Task list",
       "imgref": "images/3.task-list.png"
@@ -207,7 +207,7 @@ var data = {
     }]
   },
   {
-    "title": "Tell us about you - contact details",
+    "title": "Tell us about you - enter your contact details",
     "path": [{
       "caption": "Bailiwick address",
       "imgref": "images/5.Bailiwick-address.png"
@@ -223,7 +223,7 @@ var data = {
     }]
   },
   {
-    "title": "Tell us about you - marital status, not married",
+    "title": "Tell us about you - enter your marital status, not married",
     "path": [{
       "caption": "Marital status",
       "imgref": "images/marital-status-not-married.png"
@@ -233,7 +233,7 @@ var data = {
     }]
   },
   {
-    "title": "Tell us about you - marital status, spouse isn't here",
+    "title": "Tell us about you - enter your marital status, spouse isn't here",
     "path": [{
       "caption": "Marital status",
       "imgref": "images/marital-status-spouse-not-here.png"
@@ -243,7 +243,7 @@ var data = {
     }]
   },
   {
-    "title": "Tell us about you - marital status, spouse is here",
+    "title": "Tell us about you - enter your marital status, spouse is here",
     "path": [{
       "caption": "Marital status",
       "imgref": "images/marital-status-spouse-here.png"
@@ -265,7 +265,7 @@ var data = {
     }]
   },
   {
-    "title": "Tell us about you - details of children, doesn't have children",
+    "title": "Tell us about you - enter details of children, doesn't have children",
     "path": [{
       "caption": "Children",
       "imgref": "images/Children-yes.png"
@@ -275,7 +275,7 @@ var data = {
     }]
   },
   {
-    "title": "Tell us about you - details of children, has children",
+    "title": "Tell us about you - enter details of children, has children",
     "path": [{
       "caption": "Children",
       "imgref": "images/Children-yes.png"
