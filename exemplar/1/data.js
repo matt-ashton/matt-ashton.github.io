@@ -207,29 +207,8 @@ var data = {
     }]
   },
   {
-    "title": "Tell us about you - single person, has children",
+    "title": "Tell us about you - contact details",
     "path": [{
-      "caption": "Task list",
-      "imgref": "images/3.task-list.png"
-    },{
-      "caption": "Name",
-      "imgref": "images/2.Enter-your-name.png"
-    },{
-      "caption": "Any other names",
-      "imgref": "images/Any_other_names.png"
-    },{
-      "caption": "Previous name",
-      "imgref": "images/previous_name.png"
-    },{
-      "caption": "Gender",
-      "imgref": "images/gender.png"
-    },{
-      "caption": "Nationality",
-      "imgref": "images/4.Enter-your-nationality.png"
-    },{
-      "caption": "Date of birth",
-      "imgref": "images/3.date-of-birth.png",
-    },{
       "caption": "Bailiwick address",
       "imgref": "images/5.Bailiwick-address.png"
     },{
@@ -239,9 +218,65 @@ var data = {
       "caption": "Phone number",
       "imgref": "images/7.phone-number.png"
     },{
+      "caption": "Check your answers",
+      "imgref": "images/check-your-answers-contact-details.png"
+    }]
+  },
+  {
+    "title": "Tell us about you - marital status, not married",
+    "path": [{
       "caption": "Marital status",
-      "imgref": "images/marital_status_not_married.png"
+      "imgref": "images/marital-status-not-married.png"
     },{
+      "caption": "Next section",
+      "imgref": "images/"
+    }]
+  },
+  {
+    "title": "Tell us about you - marital status, spouse isn't here",
+    "path": [{
+      "caption": "Marital status",
+      "imgref": "images/marital-status-spouse-not-here.png"
+    },{
+      "caption": "Next section",
+      "imgref": "images/"
+    }]
+  },
+  {
+    "title": "Tell us about you - marital status, spouse is here",
+    "path": [{
+      "caption": "Marital status",
+      "imgref": "images/marital-status-spouse-here.png"
+    },{
+      "caption": "Spouse name",
+      "imgref": "images/spouse-or-civil-partner-name.png"
+    },{
+      "caption": "Spouse date of birth",
+      "imgref": "images/spouse-date-of-birth.png"
+    },{
+      "caption": "Date of marriage",
+      "imgref": "images/10.date-of-marriage.png"
+    },{
+      "caption": "Check your answers",
+      "imgref": "images/"
+    },{
+      "caption": "Next section",
+      "imgref": "images/"
+    }]
+  },
+  {
+    "title": "Tell us about you - details of children, doesn't have children",
+    "path": [{
+      "caption": "Children",
+      "imgref": "images/Children-yes.png"
+    },{
+      "caption": "Next section",
+      "imgref": "images/"
+    }]
+  },
+  {
+    "title": "Tell us about you - details of children, has children",
+    "path": [{
       "caption": "Children",
       "imgref": "images/Children-yes.png"
     },{
@@ -257,100 +292,8 @@ var data = {
       "caption": "Date of arrival",
       "imgref": "images/child-date-of-arrival.png"
     },{
-      "caption": "Summary of children",
-      "imgref": "images/14.Child-summary.png"
-    },{
-      "caption": "Task list",
-      "imgref": "images/21.task-list-single-person-family-allowance.png"
-    }]
-  },
-  {
-    "title": "Tell us about you - married person, no children",
-    "path": [{
-      "caption": "Task list",
-      "imgref": "images/3.task-list.png"
-    },{
-      "caption": "Name",
-      "imgref": "images/2.Enter-your-name.png"
-    },{
-      "caption": "Date of birth",
-      "imgref": "images/3.date-of-birth.png",
-    },{
-      "caption": "Nationality",
-      "imgref": "images/4.Enter-your-nationality.png"
-    },{
-      "caption": "Bailiwick address",
-      "imgref": "images/5.Bailiwick-address.png"
-    },{
-      "caption": "Email",
-      "imgref": "images/6.Email-address.png"
-    },{
-      "caption": "Phone number",
-      "imgref": "images/7.phone-number.png"
-    },{
-      "caption": "Marital status",
-      "imgref": "images/8.Marital-status.png"
-    },{
-      "caption": "Spouse details",
-      "imgref": "images/9.spouse-or-civil-partner.png"
-    },{
-      "caption": "Date of marriage",
-      "imgref": "images/10.date-of-marriage.png"
-    },{
-      "caption": "Children",
-      "imgref": "images/9.children.png"
-    },{
-      "caption": "Task list",
-      "imgref": "images/11.Task-list-married-no-children.png"
-    }]
-  },
-  {
-    "title": "Tell us about you - married person, has children",
-    "path": [{
-      "caption": "Task list",
-      "imgref": "images/3.task-list.png"
-    },{
-      "caption": "Name",
-      "imgref": "images/2.Enter-your-name.png"
-    },{
-      "caption": "Date of birth",
-      "imgref": "images/3.date-of-birth.png",
-    },{
-      "caption": "Nationality",
-      "imgref": "images/4.Enter-your-nationality.png"
-    },{
-      "caption": "Bailiwick address",
-      "imgref": "images/5.Bailiwick-address.png"
-    },{
-      "caption": "Email",
-      "imgref": "images/6.Email-address.png"
-    },{
-      "caption": "Phone number",
-      "imgref": "images/7.phone-number.png"
-    },{
-      "caption": "Marital status",
-      "imgref": "images/Marital-status-yes-here.png"
-    },{
-      "caption": "Spouse details",
-      "imgref": "images/9.spouse-or-civil-partner.png"
-    },{
-      "caption": "Date of marriage",
-      "imgref": "images/10.date-of-marriage.png"
-    },{
-      "caption": "Children",
-      "imgref": "images/Children-yes.png"
-    },{
-      "caption": "Child's details",
-      "imgref": "images/10.child-details.png"
-    },{
-      "caption": "Any other names",
-      "imgref": "images/childs-other-names.png"
-    },{
-      "caption": "Previous name",
-      "imgref": "images/child-previous-name.png"
-    },{
-      "caption": "Date of arrival",
-      "imgref": "images/child-date-of-arrival.png"
+      "caption": "Check answers",
+      "imgref": "images/"
     },{
       "caption": "Summary of children",
       "imgref": "images/14.Child-summary.png"
