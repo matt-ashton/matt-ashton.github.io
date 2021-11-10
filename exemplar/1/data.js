@@ -182,7 +182,7 @@ var data = {
     "title": "Tell us about you - enter your personal details",
     "path": [{
       "caption": "Task list",
-      "imgref": "images/3.task-list.png"
+      "imgref": "images/task-list-1.png"
     },{
       "caption": "Name",
       "imgref": "images/2.Enter-your-name.png"
@@ -204,6 +204,9 @@ var data = {
     },{
       "caption": "Check your answers",
       "imgref": "images/check-your-answers-personal-details.png"
+    },{
+      "caption": "Task list",
+      "imgref": "images/task-list-2.png"
     }]
   },
   {
