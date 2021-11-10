@@ -268,7 +268,7 @@ var data = {
     "title": "Tell us about you - enter details of children, doesn't have children",
     "path": [{
       "caption": "Children",
-      "imgref": "images/Children-yes.png"
+      "imgref": "images/details-of-children-no.png"
     },{
       "caption": "Next section",
       "imgref": "images/"
@@ -278,19 +278,25 @@ var data = {
     "title": "Tell us about you - enter details of children, has children",
     "path": [{
       "caption": "Children",
-      "imgref": "images/Children-yes.png"
+      "imgref": "images/details-of-children.png"
     },{
-      "caption": "Child's details",
-      "imgref": "images/10.child-details.png"
+      "caption": "Child's name",
+      "imgref": "images/enter-child-names.png"
     },{
       "caption": "Any other names",
-      "imgref": "images/childs-other-names.png"
+      "imgref": "images/child-name-ever-changed.png"
     },{
-      "caption": "Previous name",
-      "imgref": "images/child-previous-name.png"
+      "caption": "Previous names",
+      "imgref": "images/child-previous-names.png"
+    },{
+      "caption": "Gender",
+      "imgref": "images/child-gender.png"
+    },{
+      "caption": "Date of birth",
+      "imgref": "images/child-date-of-birth.png"
     },{
       "caption": "Date of arrival",
-      "imgref": "images/child-date-of-arrival.png"
+      "imgref": "images/child-arrival-date.png"
     },{
       "caption": "Check answers",
       "imgref": "images/"
@@ -299,7 +305,7 @@ var data = {
       "imgref": "images/14.Child-summary.png"
     },{
       "caption": "Task list",
-      "imgref": "images/Tasklist - Married, claiming family allowance.png"
+      "imgref": "images/"
     }]
   },
   {
