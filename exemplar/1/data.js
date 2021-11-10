@@ -364,6 +364,45 @@ var data = {
   }]
 },
 {
+  "title": "Enter your income - select your income, doesn't have any income",
+  "path": [{
+    "caption": "Task list",
+    "imgref": "images/Task-list-6.png"
+  },{
+    "caption": "Select your income",
+    "imgref": "images/Select-income-no-income.png"
+  },{
+    "caption": "Task list",
+    "imgref": "images/task-list-9.png"
+  }]
+},
+{
+  "title": "Enter your income - enter how you fund your living expenses",
+  "path": [{
+    "caption": "Task list",
+    "imgref": "images/task-list-9.png"
+  },{
+    "caption": "living expenses",
+    "imgref": "images/living-expenses.png"
+  },{
+    "caption": "Task list",
+    "imgref": "images/task-list-10.png"
+  }]
+},
+{
+  "title": "Enter your income - check your income estimates, no income",
+  "path": [{
+    "caption": "Task list",
+    "imgref": "images/task-list-10.png"
+  },{
+    "caption": "Income estimates",
+    "imgref": "images/income-estimates-no-income.png"
+  },{
+    "caption": "Task list",
+    "imgref": "images/Task-list-11.png"
+  }]
+},
+{
   "title": "Enter your income - select your income, has income",
   "path": [{
     "caption": "Task list",
