@@ -620,32 +620,26 @@ var data = {
 "title": "Enter your income - enter your pensions",
 "path": [{
 "caption": "Task list",
-"imgref": "images/6.register-arrival-task-list-1.png"
-},{
-"caption": "Your income",
-"imgref": "images/select-your-income-pensions.png",
+"imgref": "images/Task-list-12.png"
 },{
 "caption": "pension details",
 "imgref": "images/pension-details.png"
 },{
+"caption": "Check your answers",
+"imgref": "images/"
+},{
 "caption": "Summary",
 "imgref": "images/pensions-summary.png"
 },{
-"caption": "Income estimates",
-"imgref": "images/income-estimates-pensions.png"
-},{
 "caption": "Task list",
-"imgref": "images/task-list-pensions-2.png"
+"imgref": "images/Task-list-13.png"
 }]
 },
 {
 "title": "Enter your income - enter your rental income",
 "path": [{
 "caption": "Task list",
-"imgref": "images/6.register-arrival-task-list-1.png"
-},{
-"caption": "Your income",
-"imgref": "images/select-income-rental-income.png",
+"imgref": "images/Task-list-13.png"
 },{
 "caption": "Address",
 "imgref": "images/rental-income.png"
@@ -659,55 +653,56 @@ var data = {
 "caption": "Interest",
 "imgref": "images/interest-relief.png"
 },{
+"caption": "Check your answers",
+"imgref": "images/"
+},{
 "caption": "Summary",
 "imgref": "images/let-property-summary.png"
 },{
-"caption": "Income estimates",
-"imgref": "images/income-estimates-property.png"
-},{
 "caption": "Task list",
-"imgref": "images/task-list-rental-income-2.png"
+"imgref": "images/Task-list-14.png"
 }]
 },
 {
 "title": "Enter your income - enter your interest from bank and savings",
 "path": [{
 "caption": "Task list",
-"imgref": "images/6.register-arrival-task-list-1.png"
-},{
-"caption": "Your income",
-"imgref": "images/select-your-income-bank-interest.png",
+"imgref": "images/Task-list-14.png"
 },{
 "caption": "Interest",
 "imgref": "images/bank-interest-received.png"
 },{
-"caption": "Income estimates",
-"imgref": "images/income-estimates-bank-interest.png"
-},{
 "caption": "Task list",
-"imgref": "images/task-list-bank-interest-2.png"
+"imgref": "images/Task-list-15.png"
 }]
 },
 {
 "title": "Enter your income - enter your other incomes",
 "path": [{
 "caption": "Task list",
-"imgref": "images/6.register-arrival-task-list-1.png"
-},{
-"caption": "Your income",
-"imgref": "images/select-your-income-other-income.png",
+"imgref": "images/Task-list-15.png"
 },{
 "caption": "Other income",
 "imgref": "images/Other-income-amount.png"
 },{
-"caption": "Income estimates",
-"imgref": "images/income-estimates-other-income.png"
-},{
 "caption": "Task list",
-"imgref": "images/task-list-any-other-income-2.png"
+"imgref": "images/Task-list-16.png"
 }]
 },
 {
+  "title": "Enter your income - check your income estimates",
+  "path": [{
+  "caption": "Task list",
+  "imgref": "images/Task-list-16.png"
+  },{
+  "caption": "Income estimates",
+  "imgref": "images/check-yyour-income-estimates.png"
+  },{
+  "caption": "Task list",
+  "imgref": "images/Task-list-17.png"
+  }]
+  },
+  {
 "title": "Claim your allowances - mortgage interest relief",
 "path": [{
 "caption": "Task list",
