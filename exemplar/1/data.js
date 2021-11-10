@@ -503,13 +503,10 @@ var data = {
     }]
     },
     {
-"title": "Enter your income - self-employed, sole trader",
+"title": "Enter your income - enter your self-employment, sole trader",
 "path": [{
 "caption": "Task list",
-"imgref": "images/6.register-arrival-task-list-1.png"
-},{
-"caption": "Your income",
-"imgref": "images/3.select-income-self-employed.png",
+"imgref": "images/Task-list-8.png"
 },{
 "caption": "Business type",
 "imgref": "images/4.business-type.png"
@@ -532,24 +529,21 @@ var data = {
 "caption": "Profit or loss",
 "imgref": "images/10.profit-or-loss-estimate.png"
 },{
+"caption": "Check your answers",
+"imgref": "images/11.Self-employment-summary.png"
+},{
 "caption": "Summary",
 "imgref": "images/11.Self-employment-summary.png"
 },{
-"caption": "Income estimates",
-"imgref": "images/income-estimates-self-employed.png"
-},{
 "caption": "Task list",
-"imgref": "images/task-list-self-employed-2.png"
+"imgref": "images/Task-list-12.png"
 }]
 },
 {
-"title": "Enter your income - self-employed, new business partnership",
+"title": "Enter your income - enter your self-employment, new business partnership",
 "path": [{
 "caption": "Task list",
-"imgref": "images/6.register-arrival-task-list-1.png"
-},{
-"caption": "Your income",
-"imgref": "images/3.select-income-self-employed.png",
+"imgref": "images/Task-list-8.png"
 },{
 "caption": "Business type",
 "imgref": "images/new-business-partnership.png"
@@ -575,24 +569,21 @@ var data = {
 "caption": "Profit or loss",
 "imgref": "images/10.profit-or-loss-estimate.png"
 },{
+"caption": "Check your answers",
+"imgref": "images/"
+},{
 "caption": "Summary",
 "imgref": "images/11.Self-employment-summary.png"
 },{
-"caption": "Income estimates",
-"imgref": "images/income-estimates-self-employed.png"
-},{
 "caption": "Task list",
-"imgref": "images/task-list-self-employed-2.png"
+"imgref": "images/Task-list-12.png"
 }]
 },
 {
-  "title": "Enter your income - self-employed, existing business partnership",
+  "title": "Enter your income - enter your self-employment, existing business partnership",
   "path": [{
   "caption": "Task list",
-  "imgref": "images/6.register-arrival-task-list-1.png"
-  },{
-  "caption": "Your income",
-  "imgref": "images/3.select-income-self-employed.png",
+  "imgref": "images/Task-list-8.png"
   },{
   "caption": "Business type",
   "imgref": "images/existing-business-partnership.png"
@@ -615,18 +606,18 @@ var data = {
   "caption": "Profit or loss",
   "imgref": "images/10.profit-or-loss-estimate.png"
   },{
+  "caption": "Check your answers",
+  "imgref": "images/"
+  },{
   "caption": "Summary",
   "imgref": "images/11.Self-employment-summary.png"
   },{
-  "caption": "Income estimates",
-  "imgref": "images/income-estimates-self-employed.png"
-  },{
   "caption": "Task list",
-  "imgref": "images/task-list-self-employed-2.png"
+  "imgref": "images/Task-list-12.png"
   }]
   },
   {
-"title": "Enter your income - pensions",
+"title": "Enter your income - enter your pensions",
 "path": [{
 "caption": "Task list",
 "imgref": "images/6.register-arrival-task-list-1.png"
@@ -648,7 +639,7 @@ var data = {
 }]
 },
 {
-"title": "Enter your income - rental income",
+"title": "Enter your income - enter your rental income",
 "path": [{
 "caption": "Task list",
 "imgref": "images/6.register-arrival-task-list-1.png"
@@ -679,7 +670,7 @@ var data = {
 }]
 },
 {
-"title": "Enter your income - bank interest",
+"title": "Enter your income - enter your interest from bank and savings",
 "path": [{
 "caption": "Task list",
 "imgref": "images/6.register-arrival-task-list-1.png"
@@ -698,7 +689,7 @@ var data = {
 }]
 },
 {
-"title": "Enter your income - other income",
+"title": "Enter your income - enter your other incomes",
 "path": [{
 "caption": "Task list",
 "imgref": "images/6.register-arrival-task-list-1.png"
@@ -717,25 +708,6 @@ var data = {
 }]
 },
 {
-  "title": "Enter your income - I don't have any income",
-  "path": [{
-  "caption": "Task list",
-  "imgref": "images/6.register-arrival-task-list-1.png"
-  },{
-  "caption": "Your income",
-  "imgref": "images/I-don't-have-any-income.png",
-  },{
-  "caption": "Living expenses",
-  "imgref": "images/how-fund-living.png"
-  },{
-  "caption": "Income estimates",
-  "imgref": "images/no-income-summary.png"
-  },{
-  "caption": "Task list",
-  "imgref": "images/task-list-any-other-income-2.png"
-  }]
-  },
-  {
 "title": "Claim your allowances - mortgage interest relief",
 "path": [{
 "caption": "Task list",
@@ -805,28 +777,6 @@ var data = {
 },{
 "caption": "Pension summary",
 "imgref": "images/pension-summary.png"
-},{
-"caption": "Task list",
-"imgref": "images/claim-your-allowances-task-list-2.png"
-}]
-},
-{
-"title": "Review your application",
-"path": [{
-"caption": "Task list",
-"imgref": "images/claim-your-allowances-task-list-2.png"
-},{
-"caption": "Page 1",
-"imgref": "images/Review-application-page-1.png",
-},{
-"caption": "Page 2",
-"imgref": "images/Review-page-2.png"
-},{
-"caption": "Page 3",
-"imgref": "images/review-page-3.png"
-},{
-"caption": "Page 4",
-"imgref": "images/review-page-4.png"
 },{
 "caption": "Task list",
 "imgref": "images/claim-your-allowances-task-list-2.png"
