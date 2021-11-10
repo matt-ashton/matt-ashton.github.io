@@ -364,13 +364,23 @@ var data = {
   }]
 },
 {
-"title": "Enter your income - employment, local employer",
+  "title": "Enter your income - select your income, has income",
+  "path": [{
+    "caption": "Task list",
+    "imgref": "images/Task-list-6.png"
+  },{
+    "caption": "Select your income",
+    "imgref": "images/select-your-income.png"
+  },{
+    "caption": "Task list",
+    "imgref": "images/task-list-7.png"
+  }]
+},
+{
+"title": "Enter your income - enter your employment, local employer",
 "path": [{
 "caption": "Task list",
-"imgref": "images/6.register-arrival-task-list-1.png"
-},{
-"caption": "Your income",
-"imgref": "images/2.Your-income-employment.png",
+"imgref": "images/task-list-7.png"
 },{
 "caption": "Working arrangement",
 "imgref": "images/employment-guernsey-employer.png"
@@ -384,24 +394,21 @@ var data = {
 "caption": "Temporary",
 "imgref": "images/temporary-employment.png"
 },{
+"caption": "Check your answers",
+"imgref": "images/"
+},{
 "caption": "Summary",
 "imgref": "images/7.employment-summary.png"
 },{
-"caption": "Income estimates",
-"imgref": "images/8.income-estimates-employed.png"
-},{
 "caption": "Task list",
-"imgref": "images/task-list-employed-2.png"
+"imgref": "images/Task-list-8.png"
 }]
 },
 {
-  "title": "Enter your income - employment, overseas employer",
+  "title": "Enter your income - enter your employment, overseas employer",
   "path": [{
   "caption": "Task list",
-  "imgref": "images/6.register-arrival-task-list-1.png"
-  },{
-  "caption": "Your income",
-  "imgref": "images/2.Your-income-employment.png",
+  "imgref": "images/task-list-7.png"
   },{
   "caption": "Working arrangement",
   "imgref": "images/employment-overseas-employment.png"
@@ -415,24 +422,21 @@ var data = {
   "caption": "Temporary",
   "imgref": "images/temporary-employment.png"
   },{
+  "caption": "Check your answers",
+  "imgref": "images/"
+  },{
   "caption": "Summary",
   "imgref": "images/7.employment-summary.png"
   },{
-  "caption": "Income estimates",
-  "imgref": "images/8.income-estimates-employed.png"
-  },{
   "caption": "Task list",
-  "imgref": "images/task-list-employed-2.png"
+  "imgref": "images/Task-list-8.png"
   }]
   },
   {
-    "title": "Enter your income - employment, shareholder or beneficial member",
+    "title": "Enter your income - enter your employment, shareholding",
     "path": [{
     "caption": "Task list",
-    "imgref": "images/6.register-arrival-task-list-1.png"
-    },{
-    "caption": "Your income",
-    "imgref": "images/2.Your-income-employment.png",
+    "imgref": "images/task-list-7.png"
     },{
     "caption": "Working arrangement",
     "imgref": "images/employment-benefical-member-shareholder.png"
@@ -449,14 +453,14 @@ var data = {
     "caption": "Temporary",
     "imgref": "images/temporary-employment.png"
     },{
+    "caption": "Check your answers",
+    "imgref": "images/"
+    },{
     "caption": "Summary",
     "imgref": "images/7.employment-summary.png"
     },{
-    "caption": "Income estimates",
-    "imgref": "images/8.income-estimates-employed.png"
-    },{
     "caption": "Task list",
-    "imgref": "images/task-list-employed-2.png"
+    "imgref": "images/Task-list-8.png"
     }]
     },
     {
