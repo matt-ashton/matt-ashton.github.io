@@ -212,6 +212,9 @@ var data = {
   {
     "title": "Tell us about you - enter your contact details",
     "path": [{
+      "caption": "Task list",
+      "imgref": "images/task-list-2.png"
+    },{
       "caption": "Bailiwick address",
       "imgref": "images/5.Bailiwick-address.png"
     },{
@@ -223,6 +226,9 @@ var data = {
     },{
       "caption": "Check your answers",
       "imgref": "images/check-your-answers-contact-details.png"
+    },{
+      "caption": "Task list",
+      "imgref": "images/Task-list-3.png"
     }]
   },
   {
