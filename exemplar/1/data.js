@@ -234,26 +234,35 @@ var data = {
   {
     "title": "Tell us about you - enter your marital status, not married",
     "path": [{
+      "caption": "Task list",
+      "imgref": "images/Task-list-3.png"
+    },{
       "caption": "Marital status",
       "imgref": "images/marital-status-not-married.png"
     },{
-      "caption": "Next section",
-      "imgref": "images/"
+      "caption": "Task list",
+      "imgref": "images/task-list-4.png"
     }]
   },
   {
     "title": "Tell us about you - enter your marital status, spouse isn't here",
     "path": [{
+      "caption": "Task list",
+      "imgref": "images/Task-list-3.png"
+    },{
       "caption": "Marital status",
       "imgref": "images/marital-status-spouse-not-here.png"
     },{
-      "caption": "Next section",
-      "imgref": "images/"
+      "caption": "Task list",
+      "imgref": "images/task-list-4.png"
     }]
   },
   {
     "title": "Tell us about you - enter your marital status, spouse is here",
     "path": [{
+      "caption": "Task list",
+      "imgref": "images/Task-list-3.png"
+    },{
       "caption": "Marital status",
       "imgref": "images/marital-status-spouse-here.png"
     },{
@@ -269,23 +278,29 @@ var data = {
       "caption": "Check your answers",
       "imgref": "images/"
     },{
-      "caption": "Next section",
-      "imgref": "images/"
+      "caption": "Task list",
+      "imgref": "images/task-list-4.png"
     }]
   },
   {
     "title": "Tell us about you - enter details of children, doesn't have children",
     "path": [{
+      "caption": "Task list",
+      "imgref": "images/task-list-4.png"
+    },{
       "caption": "Children",
       "imgref": "images/details-of-children-no.png"
     },{
-      "caption": "Next section",
-      "imgref": "images/"
+      "caption": "Task list",
+      "imgref": "images/Task-list-5.png"
     }]
   },
   {
     "title": "Tell us about you - enter details of children, has children",
     "path": [{
+      "caption": "Task list",
+      "imgref": "images/task-list-4.png"
+      },{
       "caption": "Children",
       "imgref": "images/details-of-children.png"
     },{
@@ -314,14 +329,14 @@ var data = {
       "imgref": "images/14.Child-summary.png"
     },{
       "caption": "Task list",
-      "imgref": "images/"
+      "imgref": "images/Task-list-5.png"
     }]
   },
   {
   "title": "Register your arrival - enter your arrival details",
   "path": [{
     "caption": "Task list",
-    "imgref": "images/10.task-list-tell-us-about-you-end.png"
+    "imgref": "images/Task-list-5.png"
   },{
     "caption": "Date of arrival",
     "imgref": "images/3.date-of-arrival.png"
@@ -345,7 +360,7 @@ var data = {
     "imgref": "images/check-your-answers-arrival-details.png"
   },{
     "caption": "Task list",
-    "imgref": "images/6.register-arrival-task-list-1.png"
+    "imgref": "images/Task-list-6.png"
   }]
 },
 {
