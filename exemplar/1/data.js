@@ -650,8 +650,14 @@ var data = {
 "caption": "Address",
 "imgref": "images/rental-income.png"
 },{
-"caption": "Property details",
-"imgref": "images/let-property-details.png"
+"caption": "Property type",
+"imgref": "images/let-property-type.png"
+},{
+"caption": "Property repairs",
+"imgref": "images/who-pays-for-repairs.png"
+},{
+"caption": "Furnished status",
+"imgref": "images/furnished-status.png"
 },{
 "caption": "Income",
 "imgref": "images/rental-income-estimate.png"
