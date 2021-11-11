@@ -627,7 +627,7 @@ var data = {
 },{
 "caption": "Pension type",
 "imgref": "images/pension-type.png"
-,{
+},{
 "caption": "Pension amount",
 "imgref": "images/pension-amount.png"
 },{
@@ -641,7 +641,7 @@ var data = {
 "imgref": "images/Task-list-13.png"
 }]
 },
-{  
+{
 "title": "Enter your income - enter your rental income",
 "path": [{
 "caption": "Task list",
