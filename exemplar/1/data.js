@@ -715,81 +715,111 @@ var data = {
   }]
   },
   {
-"title": "Claim your allowances - mortgage interest relief",
+"title": "Claim your allowances - doesn't claim relief on mortgage interest",
 "path": [{
 "caption": "Task list",
-"imgref": "images/claim-your-allowances-task-list-1.png"
+"imgref": "images/Task-list-17.png"
 },{
 "caption": "Mortgages",
-"imgref": "images/mortgage-interest-yes.png"
-},{
-"caption": "Mortgage details",
-"imgref": "images/mortgage-details.png"
-},{
-"caption": "Mortgage summary",
-"imgref": "images/Mortgage-summary.png"
-},{
-"caption": "Loans",
-"imgref": "images/loans-no.png"
-},{
-"caption": "Pensions",
-"imgref": "images/pensions-no.png"
+"imgref": "images/mortgage-interest-no.png"
 },{
 "caption": "Task list",
-"imgref": "images/claim-your-allowances-task-list-2.png"
+"imgref": "images/Task-list-18.png"
 }]
 },
 {
-"title": "Claim your allowances - loan interest relief",
+  "title": "Claim your allowances - claims relief on mortgage interest",
+  "path": [{
+  "caption": "Task list",
+  "imgref": "images/Task-list-17.png"
+  },{
+  "caption": "Mortgages",
+  "imgref": "images/mortgage-interest-yes.png"
+  },{
+  "caption": "Mortgage details",
+  "imgref": "images/mortgage-details.png"
+  },{
+  "caption": "Check your answers",
+  "imgref": "images/"
+  },{
+  "caption": "Mortgage summary",
+  "imgref": "images/Mortgage-summary.png"
+  },{
+  "caption": "Task list",
+  "imgref": "images/Task-list-18.png"
+  }]
+  },
+  {
+"title": "Claim your allowances - doesn't claim loan interest relief",
 "path": [{
 "caption": "Task list",
-"imgref": "images/claim-your-allowances-task-list-1.png"
+"imgref": "images/Task-list-18.png"
 },{
-"caption": "Mortgages",
-"imgref": "images/mortgage-no.png"
-},{
-"caption": "Loans",
-"imgref": "images/qualifying-loan-yes.png"
-},{
-"caption": "Loan details",
-"imgref": "images/Loan-details.png"
-},{
-"caption": "Loan summary",
-"imgref": "images/loan-summary.png"
-},{
-"caption": "Pensions",
-"imgref": "images/pensions-no.png"
+"caption": "Loan interest",
+"imgref": "images/loan-interest-no.png"
 },{
 "caption": "Task list",
-"imgref": "images/claim-your-allowances-task-list-2.png"
+"imgref": "images/Task-list-19.png"
 }]
 },
 {
-"title": "Claim your allowances - relief on pension contributions",
+"title": "Claim your allowances - claims loan interest relief",
+  "path": [{
+  "caption": "Task list",
+  "imgref": "images/Task-list-18.png"
+  },{
+  "caption": "Loans",
+  "imgref": "images/loan-interest-yes.png"
+  },{
+  "caption": "Loan details",
+  "imgref": "images/loan-interest-details.png"
+  },{
+  "caption": "Check your answers",
+  "imgref": "images/"
+  },{
+  "caption": "Loan summary",
+  "imgref": "images/loan-interest-summary.png"
+  },{
+  "caption": "Task list",
+  "imgref": "images/Task-list-19.png"
+  }]
+  },
+  {
+"title": "Claim your allowances - doesn't claim relief on pension contributions",
 "path": [{
 "caption": "Task list",
-"imgref": "images/claim-your-allowances-task-list-1.png"
-},{
-"caption": "Mortgages",
-"imgref": "images/mortgage-no.png"
-},{
-"caption": "Loans",
-"imgref": "images/loans-no.png"
+"imgref": "images/Task-list-19.png"
 },{
 "caption": "Pensions",
-"imgref": "images/pension-contributions-yes.png"
-},{
-"caption": "Pension details",
-"imgref": "images/pensions-details.png"
-},{
-"caption": "Pension summary",
-"imgref": "images/pension-summary.png"
+"imgref": "images/pension-contributions-no.png"
 },{
 "caption": "Task list",
-"imgref": "images/claim-your-allowances-task-list-2.png"
+"imgref": "images/Task-list-20.png"
 }]
 },
 {
+  "title": "Claim your allowances - claims relief on pension contributions",
+    "path": [{
+    "caption": "Task list",
+    "imgref": "images/Task-list-19.png"
+    },{
+    "caption": "Pensions",
+    "imgref": "images/pension-contributions-yes.png"
+    },{
+    "caption": "Pension details",
+    "imgref": "images/personal-pension-details.png"
+    },{
+    "caption": "Check your answers",
+    "imgref": "images/"
+    },{
+    "caption": "Pension summary",
+    "imgref": "images/personal-pension-summary.png"
+    },{
+    "caption": "Task list",
+    "imgref": "images/Task-list-20.png"
+    }]
+    },
+    {
 "title": "Send your application - Not classified",
 "path": [{
 "caption": "Task list",
