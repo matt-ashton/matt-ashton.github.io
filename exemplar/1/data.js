@@ -622,8 +622,14 @@ var data = {
 "caption": "Task list",
 "imgref": "images/Task-list-12.png"
 },{
-"caption": "pension details",
-"imgref": "images/pension-details.png"
+"caption": "Pension provider",
+"imgref": "images/pension-provider.png"
+},{
+"caption": "Pension type",
+"imgref": "images/pension-type.png"
+,{
+"caption": "Pension amount",
+"imgref": "images/pension-amount.png"
 },{
 "caption": "Check your answers",
 "imgref": "images/"
@@ -635,7 +641,7 @@ var data = {
 "imgref": "images/Task-list-13.png"
 }]
 },
-{
+{  
 "title": "Enter your income - enter your rental income",
 "path": [{
 "caption": "Task list",
